@@ -1,0 +1,42 @@
+/home/yipeiw/Documents/Research-2013fall/Update_NLU/eval.py /home/yipeiw/Documents/Research-2013fall/Update_NLU/baseline/Predict/Jun-Sun-3-09-09-17-2012_simple.txt /home/yipeiw/Documents/Research-2013fall/Update_NLU/Feature/text/CESAR_Jun-Sun-3-09-09-17-2012.txt
+[('Person_or_Vehicle', True), ('Other', True), ('Other', True), ('Person_or_Vehicle', True), ('Person_or_Vehicle', True)]
+Accuracy: 0.872868217054
+Traffic_Signal 0.7
+Road_or_Driveway 0.74025974026
+Other 0.666666666667
+Building_or_Public_Space 0.864077669903
+Person_or_Vehicle 0.939873417722
+
+type analysis:
+non-pronoun 0.836177474403
+coref-pronoun 0.875
+single-pronoun 0.77358490566
+1-pronoun 0.974193548387
+/home/yipeiw/Documents/Research-2013fall/Update_NLU/eval.py /home/yipeiw/Documents/Research-2013fall/Update_NLU/baseline/Predict/Jun-Sun-3-09-09-17-2012_pure.txt /home/yipeiw/Documents/Research-2013fall/Update_NLU/Feature/text/CESAR_Jun-Sun-3-09-09-17-2012.txt
+[('Person_or_Vehicle', True), ('Other', False), ('Other', False), ('Person_or_Vehicle', True), ('Person_or_Vehicle', True)]
+Accuracy: 0.761240310078
+Traffic_Signal 0.0
+Road_or_Driveway 0.350649350649
+Other 0.0
+Building_or_Public_Space 0.752427184466
+Person_or_Vehicle 0.977848101266
+
+type analysis:
+non-pronoun 0.750853242321
+coref-pronoun 0.638888888889
+single-pronoun 0.509433962264
+1-pronoun 0.98064516129
+/home/yipeiw/Documents/Research-2013fall/Update_NLU/eval.py /home/yipeiw/Documents/Research-2013fall/Update_NLU/baseline/Predict/Jun-Sun-3-09-09-17-2012_simulate.txt /home/yipeiw/Documents/Research-2013fall/Update_NLU/Feature/text/CESAR_Jun-Sun-3-09-09-17-2012.txt
+[('Person_or_Vehicle', True), ('Other', False), ('Other', True), ('Person_or_Vehicle', True), ('Person_or_Vehicle', True)]
+Accuracy: 0.776744186047
+Traffic_Signal 0.1
+Road_or_Driveway 0.38961038961
+Other 0.194444444444
+Building_or_Public_Space 0.752427184466
+Person_or_Vehicle 0.974683544304
+
+type analysis:
+non-pronoun 0.757679180887
+coref-pronoun 0.694444444444
+single-pronoun 0.509433962264
+1-pronoun 0.98064516129
