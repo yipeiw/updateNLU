@@ -1,0 +1,494 @@
+
+coref-pronoun
+here 74
+him 70
+he 69
+it 52
+there 28
+it's 26
+this 23
+his 16
+he's 14
+that 6
+he'd 5
+this stop sign 5
+this building 4
+his house 4
+this area 3
+this parking lot 3
+this intersection 3
+this road 3
+that's 3
+one 3
+her 3
+which 2
+this bus 2
+there's 2
+his place 2
+this street 2
+building one five two 2
+them 2
+he'll 2
+that McDonald's 1
+the other one 1
+this trailer 1
+another department store 1
+that truck 1
+a friend of his 1
+these other cars 1
+that car 1
+this Moffett Field 1
+another person 1
+those cars 1
+his brother 1
+that museum 1
+the one 1
+this woman 1
+his bastard son 1
+these 1
+the one way 1
+they 1
+this one 1
+theirs 1
+it's this building 1
+this entire area 1
+she 1
+her husband 1
+this car 1
+that street 1
+that lady 1
+
+single-pronoun
+here 94
+there 12
+this stop sign 8
+this 7
+this intersection 4
+that way 4
+this road 4
+that street 4
+this parking lot 3
+it 3
+this street 3
+that 3
+it's 2
+that road 2
+his 1
+this weird intersection 1
+this parking area 1
+this corner 1
+ 1
+this area 1
+this point 1
+this entrance 1
+the next one 1
+that's 1
+this next intersection 1
+this one 1
+this hangar 1
+the other way 1
+that stop sign 1
+there way 1
+
+1-pronoun
+you 392
+I 354
+me 61
+I'm 59
+your 47
+my 43
+I'll 41
+you're 19
+we 14
+I've 10
+I'd 9
+you'll 8
+we're 6
+we'll 5
+my hotel 4
+my house 4
+us 3
+you'd 2
+your car 2
+a friend of mine 2
+my friend 2
+our parking lot 1
+I you 1
+my friend Ben 1
+mine 1
+the first building you see on your right with the antenna on top 1
+we'd 1
+the way we came 1
+your hotel 1
+your co-pilot 1
+your friend 1
+my in-car assistant 1
+myself 1
+my brother 1
+you've 1
+
+Other
+it 17
+this 8
+the quarterly report 5
+that 4
+the report 4
+that's 3
+the antenna 3
+here 3
+it's 3
+this one 2
+your back seat 2
+the hydrant 2
+ 2
+the drive-through window 2
+North Akron 1
+things 1
+I 1
+that bush 1
+Singularity University 1
+shade 1
+the document 1
+the tower 1
+there's 1
+your backseat 1
+your post card 1
+the missile 1
+relics 1
+Singularity route University 1
+Japan 1
+these trees 1
+Postal Patrons 1
+the Big Mac 1
+a second card 1
+letter 1
+that one 1
+our list 1
+Air Force One 1
+fire hydrant 1
+that thing 1
+food 1
+your report 1
+hotel room 1
+the letter 1
+planes 1
+gas tanks 1
+message 1
+the Air Force One 1
+back seat 1
+Moffett Field 1
+my phone 1
+pumps 1
+that note 1
+the window 1
+my mirrors 1
+the first sheet 1
+a little curb 1
+here's 1
+box 1
+the door 1
+quarterly report back 1
+the gate 1
+five 1
+the brake 1
+
+Traffic_Signal
+the stop sign 54
+this stop sign 13
+the next stop sign 13
+the first stop sign 7
+stop sign 4
+the next intersection 1
+that stop sign 1
+further stop sign 1
+the second stop sign 1
+this one 1
+the further stop sign 1
+
+Building_or_Public_Space
+here 48
+it 46
+the parking lot 39
+the gym 31
+there 30
+the hotel 29
+it's 24
+Nanotech 23
+the army barracks 22
+the post office 22
+McDonald's 20
+the museum 17
+this 15
+Crown Start-Up Funds 13
+the gas station 13
+the commissary 9
+the conference center 8
+the building 8
+a bowling alley 6
+a museum 5
+this parking lot 4
+my hotel 4
+that 4
+Moffett Field 4
+this area 4
+this building 4
+his house 4
+my house 4
+town 4
+ 4
+Nanotech Industries 4
+the hotel parking lot 4
+that's 3
+commissary 3
+the McDonald's 3
+the area 3
+the hotel lobby 3
+the barracks 3
+the swimming pool 3
+hotel 3
+a commissary 3
+a conference center 2
+Sam's 2
+his place 2
+the bowling alley 2
+San Francisco 2
+three buildings 2
+Oakland 2
+the gas station parking lot 2
+army barracks 2
+bowling alley 2
+the pool 2
+base 2
+which 2
+the nearest gas station 2
+NASA AMES 2
+Crown Funds 2
+Sam's house 2
+building one five two 2
+post office 2
+the old NEX 1
+Hangar One 1
+another person 1
+two 1
+the hangars 1
+Crown Start-Up 1
+your hotel 1
+army barrack 1
+swimming pool 1
+house 1
+a good cafeteria 1
+that McDonald's 1
+four seventeen McCoon 1
+this hangar 1
+the building on the left 1
+hotel lobby 1
+museum 1
+conference center 1
+the second floor 1
+they 1
+Carnegie Mellon 1
+this parking area 1
+the Fund 1
+the inside seating 1
+Phil's house 1
+room two seventeen 1
+the restaurant 1
+home 1
+the city of Moffett Field 1
+the golf golf course 1
+thirty four 1
+the place 1
+the Wescott hotel 1
+the Crown Startup Fund 1
+it's this building 1
+a golf course 1
+the first building you see on your right with the antenna on top 1
+angel of funds company 1
+the one 1
+Crown Start-Up fields 1
+Moffett 1
+hangar 1
+that museum 1
+swimming pool's 1
+this one 1
+the first building 1
+this Moffett Field 1
+Nano Funds 1
+the weight room 1
+four seventy six 1
+tennis court's 1
+Sam's cafe 1
+business center 1
+another department store 1
+the other one 1
+the two buildings 1
+tennis courts 1
+this entire area 1
+a gas station 1
+Palo Alto 1
+the department store 1
+the vicinity 1
+the next driver 1
+one 1
+
+Road_or_Driveway
+here 118
+the road 21
+this 15
+there 10
+the intersection 8
+the parking lot 8
+this intersection 7
+this road 7
+the drive-through 7
+this street 5
+the driveway 5
+that street 5
+the street 5
+it 4
+that way 4
+the next intersection 4
+the expressway 4
+it's 3
+that 3
+the highway 3
+the curve 3
+this parking lot 2
+that road 2
+drive-through 2
+the next corner 1
+this corner 1
+street 1
+driveway 1
+there's 1
+our parking lot 1
+Perimeter Road 1
+one 1
+the main street 1
+the stop sign 1
+this entrance 1
+curb 1
+the next one 1
+section 1
+the next parking lot entrance 1
+this point 1
+end of the road 1
+the end 1
+the end of the road 1
+the other way 1
+his 1
+the junction 1
+McCord 1
+Moffett Field highway 1
+these 1
+the McDonald's drive-through 1
+this next intersection 1
+the one way 1
+that's 1
+Phil 1
+this weird intersection 1
+there way 1
+the way we came 1
+I 1
+the T junction 1
+the next entrance 1
+
+Person_or_Vehicle
+you 392
+I 353
+Phil 79
+him 70
+he 69
+Sam 63
+me 61
+I'm 59
+your 47
+my 43
+I'll 41
+you're 19
+his 16
+he's 14
+we 14
+I've 10
+I'd 9
+you'll 8
+the car 6
+Sam's 6
+we're 6
+the vice president 5
+we'll 5
+he'd 5
+it 5
+Phil Collison 4
+in-car assistant 3
+her 3
+us 3
+Phil's 3
+your car 2
+he'll 2
+a car 2
+a friend of mine 2
+that 2
+you'd 2
+this bus 2
+the parking lot 2
+here 2
+my friend 2
+Barack Obama 2
+them 2
+the truck 1
+blue car 1
+Mike 1
+the white truck 1
+this woman 1
+Sam McKenna 1
+the Florida plates 1
+the barracks 1
+the leader 1
+Ben Reeves 1
+my in-car assistant 1
+mine 1
+friend 1
+Jaime Lannister 1
+that lady 1
+Florida 1
+theirs 1
+I you 1
+this car 1
+let's 1
+you've 1
+VTA 1
+the hotel 1
+her husband 1
+my friend Ben 1
+these other cars 1
+Ned Stark's 1
+we'd 1
+this trailer 1
+Ned Stark's bastard son 1
+the giant bus 1
+myself 1
+that car 1
+Stark Lady 1
+it's 1
+man 1
+the trailer 1
+she 1
+that truck 1
+his brother 1
+those cars 1
+your friend 1
+the teeny car 1
+Jaime 1
+assistant 1
+a friend 1
+Steve Rosenberg 1
+a tour bus 1
+his bastard son 1
+one 1
+my brother 1
+five people 1
+the police car 1
+there's 1
+a friend of his 1
+your co-pilot 1

@@ -21,9 +21,12 @@ import pronoun
 
 pronounfile = '/home/yipeiw/Documents/Research-2013fall/coreference-baseline/English_Pronoun.list'
 pronoun_list = pronoun.LoadPronoun(pronounfile)
+print pronoun_list
 
 objectfile=sys.argv[1]
 ftrfile=sys.argv[2]
+surfacefile = sys.argv[3]
+
 
 def Denoise(word):
         if word.find('%')!=-1 or word.find('<')!=-1 or word.find('>')!=-1:
@@ -101,19 +104,19 @@ def cleanLB(lb):
 	return "_".join(word_list)
 
 def GetTag(words, ob, pronoun_list, track_dict):
-	if pronoun.IsPronoun(words, pronoun_list, 'dict'):
+	judge = pronoun.IsPronoun(words, pronoun_list, 'dict')
+	if judge == 2:
 		if track_dict[ob]:
 			return "coref-pronoun"
 		else:
 			return "single-pronoun"
-	else:
-		words = words.lower()
-		if words=='i' or words=='you' or words=='we':
+	if judge==1:
 			return "1-pronoun"
-	
+	if judge == 0:
 		return "non-pronoun"
 
 fout = open(ftrfile, 'w')
+f = open(surfacefile, 'w')
 
 window = 2
 words, annotations, notes = read_annotation_file(objectfile)
@@ -132,8 +135,10 @@ for ai in annotations:
 
 	context, pos_list, spk_list = GetContext(ai.words, window, word_map, word_num)
 	outputIns(fout, context, pos_list, spk_list, label, ai.words, pre, ai.words[0].speaker, pronoun_tag)
+	f.write("%s\n" % (word_text))
 	pre = label
 	track_dict[ai.object_parameter] = True
 
 fout.close()
+f.close()
 

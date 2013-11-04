@@ -2,19 +2,19 @@ driver 1-pronoun 2-2 NONE Person_or_Vehicle okay so put the NN IN VBD DT driver 
 driver single-pronoun 4-6 Person_or_Vehicle Other I put up here PRP VBD IN RB driver driver driver driver
 driver coref-pronoun 8-8 Other Other one up it 's CD IN PRP VBZ driver driver driver
 driver 1-pronoun 20-20 Other Person_or_Vehicle day one just finished NN CD RB VBD driver driver driver driver
-driver non-pronoun 25-25 Person_or_Vehicle Person_or_Vehicle settling into hotel room VBG IN NN NN driver driver driver driver
-driver non-pronoun 25-26 Person_or_Vehicle Building_or_Public_Space settling into room and VBG IN NN CC driver driver driver driver
-driver non-pronoun 25-27 Building_or_Public_Space Other settling into and you 're VBG IN CC PRP VBP driver driver driver driver
-driver non-pronoun 30-30 Other Person_or_Vehicle room and free this NN CC JJ DT driver driver driver driver
+driver 1-pronoun 25-25 Person_or_Vehicle Person_or_Vehicle settling into hotel room VBG IN NN NN driver driver driver driver
+driver 1-pronoun 25-26 Person_or_Vehicle Building_or_Public_Space settling into room and VBG IN NN CC driver driver driver driver
+driver 1-pronoun 25-27 Building_or_Public_Space Other settling into and you 're VBG IN CC PRP VBP driver driver driver driver
+driver 1-pronoun 30-30 Other Person_or_Vehicle room and free this NN CC JJ DT driver driver driver driver
 driver non-pronoun 36-37 Person_or_Vehicle Building_or_Public_Space to explore ask your TO VB NN PRP$ driver driver driver driver
-driver non-pronoun 39-39 Building_or_Public_Space Person_or_Vehicle city ask car assistant NN NN NN NN driver driver driver driver
-driver non-pronoun 39-41 Person_or_Vehicle Person_or_Vehicle city ask for some NN NN IN DT driver driver driver driver
-driver non-pronoun 49-49 Person_or_Vehicle Person_or_Vehicle pick one sorry what NN CD JJ WP driver driver driver driver
+driver 1-pronoun 39-39 Building_or_Public_Space Person_or_Vehicle city ask car assistant NN NN NN NN driver driver driver driver
+driver 1-pronoun 39-41 Person_or_Vehicle Person_or_Vehicle city ask for some NN NN IN DT driver driver driver driver
+driver 1-pronoun 49-49 Person_or_Vehicle Person_or_Vehicle pick one sorry what NN CD JJ WP driver driver driver driver
 driver non-pronoun 56-57 Person_or_Vehicle Person_or_Vehicle name of or can NN IN CC MD driver driver driver driver
 driver 1-pronoun 60-60 Person_or_Vehicle Person_or_Vehicle or can just my CC MD RB PRP$ driver driver driver copilot
-copilot non-pronoun 62-62 Person_or_Vehicle Person_or_Vehicle I just name 's PRP RB NN POS driver driver copilot
+copilot 1-pronoun 62-62 Person_or_Vehicle Person_or_Vehicle I just name 's PRP RB NN POS driver driver copilot
 driver non-pronoun 71-71 Person_or_Vehicle Person_or_Vehicle assistant hello hi there NN VBD NN EX driver driver copilot copilot
-driver non-pronoun 77-77 Person_or_Vehicle Person_or_Vehicle there hi free this EX NN JJ DT copilot driver driver driver
+driver 1-pronoun 77-77 Person_or_Vehicle Person_or_Vehicle there hi free this EX NN JJ DT copilot driver driver driver
 driver 1-pronoun 83-83 Person_or_Vehicle Person_or_Vehicle afternoon so want to NN IN VBP TO driver driver driver driver
 driver non-pronoun 87-88 Person_or_Vehicle Building_or_Public_Space to explore do you TO VB NN PRP driver driver driver driver
 driver 1-pronoun 90-90 Building_or_Public_Space Person_or_Vehicle Field do have any NNP VBP VB DT driver driver driver driver
@@ -37,17 +37,17 @@ driver coref-pronoun 189-189 Person_or_Vehicle Building_or_Public_Space I get Ia
 driver non-pronoun 190-190 Building_or_Public_Space Person_or_Vehicle get there let 's NN EX NN POS driver driver copilot
 copilot non-pronoun 197-199 Person_or_Vehicle Building_or_Public_Space out of and turn IN IN CC VB copilot copilot copilot copilot
 copilot 1-pronoun 205-205 Building_or_Public_Space Person_or_Vehicle the right okay know DT NN VBP RB copilot copilot driver copilot
-copilot non-pronoun 209-209 Person_or_Vehicle Person_or_Vehicle 's it your first VBZ PRP PRP$ JJ copilot copilot copilot
-copilot non-pronoun 210-210 Person_or_Vehicle Person_or_Vehicle 's it your first time VBZ PRP PRP$ JJ NN copilot copilot copilot copilot
+copilot 1-pronoun 209-209 Person_or_Vehicle Person_or_Vehicle 's it your first VBZ PRP PRP$ JJ copilot copilot copilot
+copilot 1-pronoun 210-210 Person_or_Vehicle Person_or_Vehicle 's it your first time VBZ PRP PRP$ JJ NN copilot copilot copilot copilot
 copilot coref-pronoun 213-213 Person_or_Vehicle Building_or_Public_Space first time so I 'll JJ NN RB PRP MD copilot copilot copilot copilot
-copilot non-pronoun 215-215 Building_or_Public_Space Person_or_Vehicle here so give you RB RB VB PRP copilot copilot copilot copilot
+copilot 1-pronoun 215-215 Building_or_Public_Space Person_or_Vehicle here so give you RB RB VB PRP copilot copilot copilot copilot
 copilot 1-pronoun 217-217 Person_or_Vehicle Person_or_Vehicle 'll I give detailed directions JJ PRP VBP VBD NNS copilot copilot copilot copilot
 driver single-pronoun 224-224 Person_or_Vehicle Person_or_Vehicle okay is out of NN VBZ RP IN driver driver driver driver
 copilot non-pronoun 237-239 Person_or_Vehicle Building_or_Public_Space right out and then RB IN CC RB copilot copilot copilot copilot
 driver single-pronoun 251-251 Building_or_Public_Space Road_or_Driveway again yes you see RB VBZ PRP VBP copilot copilot copilot copilot
 copilot 1-pronoun 253-253 Road_or_Driveway Person_or_Vehicle yes here see the NNS RB VBP DT copilot driver copilot copilot
 copilot non-pronoun 255-257 Person_or_Vehicle Building_or_Public_Space you see in front PRP VBP IN NN copilot copilot copilot copilot
-copilot non-pronoun 261-261 Building_or_Public_Space Person_or_Vehicle front of now okay NN IN RB VBP copilot copilot copilot driver
+copilot 1-pronoun 261-261 Building_or_Public_Space Person_or_Vehicle front of now okay NN IN RB VBP copilot copilot copilot driver
 copilot coref-pronoun 269-269 Person_or_Vehicle Building_or_Public_Space down towards okay okay IN NNS NN VBP copilot copilot driver copilot
 copilot coref-pronoun 280-280 Building_or_Public_Space Building_or_Public_Space to renovate at the TO VB IN DT copilot copilot copilot copilot
 driver 1-pronoun 285-285 Building_or_Public_Space Person_or_Vehicle the moment actually saw DT NN RB VBD copilot copilot driver driver
@@ -73,17 +73,17 @@ copilot non-pronoun 567-568 Building_or_Public_Space Road_or_Driveway yeah down 
 copilot non-pronoun 570-571 Road_or_Driveway Building_or_Public_Space road to yeah let 's NN TO NN VBD POS copilot copilot driver copilot
 copilot non-pronoun 577-579 Building_or_Public_Space Road_or_Driveway inside yeah up here NN NN IN RB copilot driver copilot copilot
 driver coref-pronoun 597-598 Road_or_Driveway Building_or_Public_Space a Sunday is interestingly DT NNP VBZ RB driver driver driver driver
-driver non-pronoun 610-610 Building_or_Public_Space Person_or_Vehicle looks like at the NNS IN IN DT driver driver driver driver
+driver 1-pronoun 610-610 Building_or_Public_Space Person_or_Vehicle looks like at the NNS IN IN DT driver driver driver driver
 driver non-pronoun 612-613 Person_or_Vehicle Building_or_Public_Space 'm I at thank you NN PRP IN NN PRP driver driver driver driver
 driver 1-pronoun 615-615 Building_or_Public_Space Person_or_Vehicle commissary thank Ian no JJ NN NNP DT driver driver driver copilot
 driver non-pronoun 616-616 Person_or_Vehicle Person_or_Vehicle thank you no problem NN PRP DT NN driver driver copilot copilot
 driver coref-pronoun 620-620 Person_or_Vehicle Other problem okay three we NN NN CD PRP copilot driver driver driver
 driver 1-pronoun 631-631 Other Person_or_Vehicle first up want to JJ IN VBP TO driver driver driver driver
-driver non-pronoun 639-639 Person_or_Vehicle Person_or_Vehicle home to spouse go NN TO NN NN driver driver driver driver
-driver non-pronoun 639-640 Person_or_Vehicle Person_or_Vehicle home to go to NN TO NN TO driver driver driver driver
+driver 1-pronoun 639-639 Person_or_Vehicle Person_or_Vehicle home to spouse go NN TO NN NN driver driver driver driver
+driver 1-pronoun 639-640 Person_or_Vehicle Person_or_Vehicle home to go to NN TO NN TO driver driver driver driver
 driver non-pronoun 644-646 Person_or_Vehicle Building_or_Public_Space go to next okay IN TO IN NN driver driver driver driver
 driver non-pronoun 653-653 Building_or_Public_Space Person_or_Vehicle okay so I 'm NN IN PRP VBP driver driver driver
-driver non-pronoun 655-655 Person_or_Vehicle Person_or_Vehicle so Ian I I IN NNP NNP NNP driver driver driver driver
+driver 1-pronoun 655-655 Person_or_Vehicle Person_or_Vehicle so Ian I I IN NNP NNP NNP driver driver driver driver
 driver 1-pronoun 657-657 Person_or_Vehicle Person_or_Vehicle 'm I I need NN PRP PRP VBP driver driver driver
 driver 1-pronoun 658-658 Person_or_Vehicle Person_or_Vehicle 'm I I need to NN PRP PRP VBP TO driver driver driver driver
 driver non-pronoun 663-665 Person_or_Vehicle Building_or_Public_Space go to how do IN TO WRB VBP driver driver driver driver
@@ -108,10 +108,10 @@ copilot single-pronoun 806-806 Building_or_Public_Space Road_or_Driveway right m
 driver non-pronoun 815-817 Road_or_Driveway Traffic_Signal right at we can RB IN PRP MD copilot driver copilot copilot
 copilot 1-pronoun 819-819 Traffic_Signal Person_or_Vehicle stop sign can see NN NN MD VB driver driver copilot copilot
 copilot non-pronoun 822-824 Person_or_Vehicle Building_or_Public_Space can see right in MD VB RB IN copilot copilot copilot copilot
-copilot non-pronoun 830-830 Building_or_Public_Space Person_or_Vehicle of ohh okay so IN NN VBP RB copilot driver driver copilot
+copilot 1-pronoun 830-830 Building_or_Public_Space Person_or_Vehicle of ohh okay so IN NN VBP RB copilot driver driver copilot
 copilot non-pronoun 837-839 Person_or_Vehicle Building_or_Public_Space pull into so make NN IN IN NN copilot copilot driver driver
 driver single-pronoun 848-848 Building_or_Public_Space Road_or_Driveway a left yes make DT VBN VBZ VBP driver driver copilot copilot
-driver non-pronoun 854-854 Road_or_Driveway Person_or_Vehicle left and at the VBD CC IN DT copilot copilot driver driver
+driver 1-pronoun 854-854 Road_or_Driveway Person_or_Vehicle left and at the VBD CC IN DT copilot copilot driver driver
 driver non-pronoun 856-860 Person_or_Vehicle Building_or_Public_Space 'm I at again okay NN PRP IN RB NN driver driver copilot driver
 copilot non-pronoun 865-866 Building_or_Public_Space Building_or_Public_Space again okay is n't RB VBP VBZ RB copilot driver copilot
 driver 1-pronoun 884-884 Building_or_Public_Space Person_or_Vehicle so thank Ian going IN NN NNP VBG driver driver driver driver
@@ -138,7 +138,7 @@ driver coref-pronoun 1022-1022 Road_or_Driveway Building_or_Public_Space getting
 driver coref-pronoun 1028-1028 Building_or_Public_Space Building_or_Public_Space n't ca use and they 're RB MD VB CC PRP VBP driver driver driver driver
 driver coref-pronoun 1036-1036 Building_or_Public_Space Building_or_Public_Space really using for scientific RB VBG IN JJ driver driver driver driver
 driver coref-pronoun 1042-1042 Building_or_Public_Space Building_or_Public_Space 're they using as a JJ PRP VBG IN DT driver driver driver driver
-copilot non-pronoun 1056-1056 Building_or_Public_Space Person_or_Vehicle a ohh gas is DT NN NN VBZ copilot driver copilot copilot
+copilot 1-pronoun 1056-1056 Building_or_Public_Space Person_or_Vehicle a ohh gas is DT NN NN VBZ copilot driver copilot copilot
 copilot non-pronoun 1074-1075 Person_or_Vehicle Building_or_Public_Space get to okay so NN TO NN RB copilot copilot driver driver
 copilot single-pronoun 1085-1085 Building_or_Public_Space Road_or_Driveway turn left left okay NN VBD VBN NN copilot copilot driver driver
 copilot non-pronoun 1092-1094 Road_or_Driveway Building_or_Public_Space over to which is IN TO WDT VBZ copilot copilot copilot copilot
@@ -148,15 +148,15 @@ copilot 1-pronoun 1114-1114 Other Person_or_Vehicle fence if see it NN IN VBP PR
 copilot coref-pronoun 1116-1116 Person_or_Vehicle Other you see coming up PRP VBP VBG RP copilot copilot copilot copilot
 copilot non-pronoun 1122-1123 Other Other just past turn right RB JJ NN RB copilot copilot copilot copilot
 copilot coref-pronoun 1151-1151 Other Person_or_Vehicle 'll we fill up I 'm JJ PRP MD RP PRP VBP copilot copilot copilot driver
-driver non-pronoun 1154-1154 Person_or_Vehicle Person_or_Vehicle it up assuming this PRP IN VBG DT copilot copilot driver driver
+driver 1-pronoun 1154-1154 Person_or_Vehicle Person_or_Vehicle it up assuming this PRP IN VBG DT copilot copilot driver driver
 driver coref-pronoun 1156-1156 Person_or_Vehicle Other 'm I assuming is a NN PRP VBG VBZ DT driver driver driver driver
 driver 1-pronoun 1165-1165 Other Person_or_Vehicle okay so get out NN IN VBP IN driver driver driver driver
 driver 1-pronoun 1169-1169 Person_or_Vehicle Person_or_Vehicle out and pump my IN CC VBP PRP$ driver driver driver driver
-driver non-pronoun 1171-1171 Person_or_Vehicle Person_or_Vehicle I pump gas or PRP VBP NN CC driver driver driver copilot
-copilot non-pronoun 1174-1174 Person_or_Vehicle Person_or_Vehicle gas or get out NN CC VB IN driver copilot copilot copilot
-copilot non-pronoun 1179-1179 Person_or_Vehicle Person_or_Vehicle and pump gas ohh CC VB NN NN copilot copilot copilot driver
-copilot non-pronoun 1182-1182 Person_or_Vehicle Person_or_Vehicle gas ohh your okay NN NN PRP$ NN copilot driver copilot driver
-copilot non-pronoun 1183-1183 Person_or_Vehicle Person_or_Vehicle 'm I okay assistant NN PRP NN NN copilot driver copilot
+driver 1-pronoun 1171-1171 Person_or_Vehicle Person_or_Vehicle I pump gas or PRP VBP NN CC driver driver driver copilot
+copilot 1-pronoun 1174-1174 Person_or_Vehicle Person_or_Vehicle gas or get out NN CC VB IN driver copilot copilot copilot
+copilot 1-pronoun 1179-1179 Person_or_Vehicle Person_or_Vehicle and pump gas ohh CC VB NN NN copilot copilot copilot driver
+copilot 1-pronoun 1182-1182 Person_or_Vehicle Person_or_Vehicle gas ohh your okay NN NN PRP$ NN copilot driver copilot driver
+copilot 1-pronoun 1183-1183 Person_or_Vehicle Person_or_Vehicle 'm I okay assistant NN PRP NN NN copilot driver copilot
 driver 1-pronoun 1190-1190 Person_or_Vehicle Person_or_Vehicle okay thank Ian so NN VBD NNP RB driver driver driver driver
 driver non-pronoun 1191-1191 Person_or_Vehicle Person_or_Vehicle thank you so thanks NN PRP RB VBZ driver driver driver driver
 copilot non-pronoun 1200-1201 Person_or_Vehicle Building_or_Public_Space pumping to okay so VBG TO NN RB driver copilot driver driver
@@ -172,14 +172,14 @@ driver coref-pronoun 1254-1254 Person_or_Vehicle Road_or_Driveway a left make a 
 driver 1-pronoun 1264-1264 Road_or_Driveway Person_or_Vehicle good that picked a JJ IN VBD DT driver driver driver driver
 copilot coref-pronoun 1288-1289 Person_or_Vehicle Road_or_Driveway straight through now if RB IN RB IN copilot copilot copilot copilot
 copilot non-pronoun 1295-1302 Road_or_Driveway Building_or_Public_Space if we is on IN PRP VBZ IN copilot copilot copilot copilot
-copilot non-pronoun 1305-1305 Building_or_Public_Space Person_or_Vehicle is on left and VBZ IN NN CC copilot copilot copilot copilot
+copilot 1-pronoun 1305-1305 Building_or_Public_Space Person_or_Vehicle is on left and VBZ IN NN CC copilot copilot copilot copilot
 copilot single-pronoun 1311-1313 Person_or_Vehicle Building_or_Public_Space pull into just just NN IN RB RB copilot copilot copilot copilot
 copilot single-pronoun 1318-1321 Building_or_Public_Space Traffic_Signal just before okay okay RB IN NN NN copilot copilot driver driver
 copilot 1-pronoun 1327-1327 Traffic_Signal Person_or_Vehicle okay okay hope you NN NN VBP PRP driver copilot copilot copilot
 copilot 1-pronoun 1329-1329 Person_or_Vehicle Person_or_Vehicle I hope enjoy your PRP VBP VBP PRP$ copilot copilot copilot copilot
-copilot non-pronoun 1331-1331 Person_or_Vehicle Person_or_Vehicle you enjoy workout okay PRP VBP NN NN copilot copilot copilot driver
-driver non-pronoun 1335-1335 Person_or_Vehicle Person_or_Vehicle okay so do my NN IN VBP PRP$ driver driver driver driver
-driver non-pronoun 1339-1339 Person_or_Vehicle Person_or_Vehicle 'm I do workout next NN PRP VBP NN IN driver driver driver driver
+copilot 1-pronoun 1331-1331 Person_or_Vehicle Person_or_Vehicle you enjoy workout okay PRP VBP NN NN copilot copilot copilot driver
+driver 1-pronoun 1335-1335 Person_or_Vehicle Person_or_Vehicle okay so do my NN IN VBP PRP$ driver driver driver driver
+driver 1-pronoun 1339-1339 Person_or_Vehicle Person_or_Vehicle 'm I do workout next NN PRP VBP NN IN driver driver driver driver
 driver non-pronoun 1349-1349 Person_or_Vehicle Building_or_Public_Space is after I want VBZ IN PRP VBP driver driver driver driver
 driver 1-pronoun 1350-1350 Building_or_Public_Space Person_or_Vehicle after gym want some IN NN VBP DT driver driver driver driver
 driver non-pronoun 1354-1354 Person_or_Vehicle Building_or_Public_Space want some drive-through on NN DT JJ IN driver driver driver driver
@@ -212,8 +212,8 @@ copilot coref-pronoun 1584-1584 Building_or_Public_Space Building_or_Public_Spac
 copilot single-pronoun 1594-1595 Building_or_Public_Space Road_or_Driveway pull up okay and NN IN NN CC copilot copilot driver copilot
 copilot non-pronoun 1598-1599 Road_or_Driveway Road_or_Driveway okay and is just NN CC VBZ RB driver copilot copilot copilot
 copilot single-pronoun 1616-1616 Road_or_Driveway Other can order okay so MD NN NN IN copilot copilot driver driver
-driver non-pronoun 1621-1621 Other Person_or_Vehicle we order Big Mac PRP VBP NNP NNP driver driver driver driver
-driver non-pronoun 1629-1629 Person_or_Vehicle Person_or_Vehicle okay so done so NN IN NN IN driver driver driver copilot
+driver 1-pronoun 1621-1621 Other Person_or_Vehicle we order Big Mac PRP VBP NNP NNP driver driver driver driver
+driver 1-pronoun 1629-1629 Person_or_Vehicle Person_or_Vehicle okay so done so NN IN NN IN driver driver driver copilot
 copilot 1-pronoun 1635-1635 Person_or_Vehicle Person_or_Vehicle so shall guide you IN NN VBP PRP copilot copilot copilot copilot
 copilot 1-pronoun 1637-1637 Person_or_Vehicle Person_or_Vehicle I guide back to PRP VBP RB TO copilot copilot copilot copilot
 copilot non-pronoun 1640-1641 Person_or_Vehicle Building_or_Public_Space back to yes I RB TO VBZ PRP copilot copilot driver driver
@@ -227,14 +227,14 @@ copilot 1-pronoun 1664-1664 Person_or_Vehicle Person_or_Vehicle here do know how
 copilot coref-pronoun 1669-1669 Person_or_Vehicle Building_or_Public_Space to get I do TO VB PRP VBP copilot copilot driver driver
 driver 1-pronoun 1670-1670 Building_or_Public_Space Person_or_Vehicle get there do not NN EX VBP RB copilot copilot driver driver
 driver 1-pronoun 1674-1674 Person_or_Vehicle Person_or_Vehicle not can show me RB MD VB PRP driver driver driver driver
-driver non-pronoun 1676-1676 Person_or_Vehicle Person_or_Vehicle you show how to PRP VBP WRB TO driver driver driver driver
+driver 1-pronoun 1676-1676 Person_or_Vehicle Person_or_Vehicle you show how to PRP VBP WRB TO driver driver driver driver
 driver coref-pronoun 1680-1680 Person_or_Vehicle Building_or_Public_Space to get so we TO VB RB PRP driver driver copilot copilot
 copilot single-pronoun 1686-1687 Building_or_Public_Space Road_or_Driveway head up and take NN IN CC VB copilot copilot copilot copilot
 copilot non-pronoun 1696-1697 Road_or_Driveway Building_or_Public_Space back to and then RB TO CC RB copilot copilot copilot copilot
 copilot non-pronoun 1700-1701 Building_or_Public_Space Building_or_Public_Space and then okay is CC RB NN VBZ copilot copilot driver driver
 driver 1-pronoun 1723-1723 Building_or_Public_Space Person_or_Vehicle okay so want to NN IN VBP TO driver driver driver driver
-driver non-pronoun 1727-1727 Person_or_Vehicle Person_or_Vehicle to eat burger when TO VB NN WRB driver driver driver driver
-driver non-pronoun 1727-1728 Person_or_Vehicle Other to eat when it 's TO VB WRB PRP VBZ driver driver driver driver
+driver 1-pronoun 1727-1727 Person_or_Vehicle Person_or_Vehicle to eat burger when TO VB NN WRB driver driver driver driver
+driver 1-pronoun 1727-1728 Person_or_Vehicle Other to eat when it 's TO VB WRB PRP VBZ driver driver driver driver
 driver coref-pronoun 1730-1730 Other Other burger when still hot NN WRB RB JJ driver driver driver driver
 copilot coref-pronoun 1737-1737 Other Road_or_Driveway turn right wow yeah NN RB RB VBP copilot copilot driver driver
 driver single-pronoun 1743-1743 Road_or_Driveway Building_or_Public_Space real places look like JJ NNS NN IN driver driver driver driver
@@ -249,15 +249,15 @@ driver 1-pronoun 1795-1795 Person_or_Vehicle Person_or_Vehicle looks like seen m
 driver coref-pronoun 1815-1815 Person_or_Vehicle Building_or_Public_Space blow up looks like NN IN VBZ IN driver driver driver driver
 driver coref-pronoun 1819-1819 Building_or_Public_Space Building_or_Public_Space like that like an IN DT IN DT driver driver driver driver
 copilot coref-pronoun 1843-1843 Building_or_Public_Space Building_or_Public_Space ohh yeah could actually NN NN MD RB driver driver copilot copilot
-driver non-pronoun 1855-1855 Building_or_Public_Space Person_or_Vehicle doing well assuming they 'll VBG RB VBG PRP MD copilot driver driver driver
+driver 1-pronoun 1855-1855 Building_or_Public_Space Person_or_Vehicle doing well assuming they 'll VBG RB VBG PRP MD copilot driver driver driver
 copilot single-pronoun 1877-1877 Person_or_Vehicle Road_or_Driveway right in back into RB IN RB IN copilot copilot copilot copilot
 copilot non-pronoun 1880-1882 Road_or_Driveway Building_or_Public_Space back into okay we RB IN NN PRP copilot copilot copilot copilot
 copilot single-pronoun 1887-1888 Building_or_Public_Space Road_or_Driveway we missed ohh we PRP VBD NN PRP copilot copilot driver driver
 driver coref-pronoun 1892-1892 Road_or_Driveway Road_or_Driveway we missed okay I 'm PRP VBD VBP PRP VBP driver driver driver driver
-driver non-pronoun 1894-1894 Road_or_Driveway Person_or_Vehicle it okay sorry loop PRP VBP JJ NN driver driver driver copilot
+driver 1-pronoun 1894-1894 Road_or_Driveway Person_or_Vehicle it okay sorry loop PRP VBP JJ NN driver driver driver copilot
 driver single-pronoun 1904-1904 Person_or_Vehicle Building_or_Public_Space go around yes okay IN IN VBZ NN driver driver copilot driver
-copilot non-pronoun 1909-1909 Building_or_Public_Space Person_or_Vehicle so so hamburger is IN RB NN VBZ driver copilot copilot copilot
-copilot non-pronoun 1909-1911 Person_or_Vehicle Other so so is cooling IN RB VBZ VBG driver copilot copilot copilot
+copilot 1-pronoun 1909-1909 Building_or_Public_Space Person_or_Vehicle so so hamburger is IN RB NN VBZ driver copilot copilot copilot
+copilot 1-pronoun 1909-1911 Person_or_Vehicle Other so so is cooling IN RB VBZ VBG driver copilot copilot copilot
 copilot single-pronoun 1919-1920 Other Road_or_Driveway left at too busy VBD IN RB JJ copilot copilot driver driver
 driver 1-pronoun 1954-1954 Road_or_Driveway Person_or_Vehicle hour okay said go PRP$ NN VBD VBP copilot driver driver driver
 driver single-pronoun 1957-1957 Person_or_Vehicle Road_or_Driveway said go right on VBD VBN RB IN driver driver driver driver
@@ -266,21 +266,21 @@ copilot single-pronoun 1988-1988 Building_or_Public_Space Road_or_Driveway okay 
 copilot single-pronoun 1998-1998 Road_or_Driveway Road_or_Driveway turn right okay just NN RB VBP RB copilot copilot driver driver
 driver coref-pronoun 2008-2008 Road_or_Driveway Building_or_Public_Space these spaces we 'll DT NNS PRP MD driver driver copilot
 copilot coref-pronoun 2012-2012 Building_or_Public_Space Building_or_Public_Space park anywhere okay okay NN VBD NN NN copilot copilot driver driver
-copilot non-pronoun 2024-2024 Building_or_Public_Space Person_or_Vehicle ohh okay not sure NN NN RB JJ driver driver copilot copilot
+copilot 1-pronoun 2024-2024 Building_or_Public_Space Person_or_Vehicle ohh okay not sure NN NN RB JJ driver driver copilot copilot
 copilot 1-pronoun 2033-2033 Person_or_Vehicle Person_or_Vehicle four hope have a PRP$ NN VB DT driver copilot copilot copilot
 driver 1-pronoun 2040-2040 Person_or_Vehicle Person_or_Vehicle okay so had a NN IN VBD DT driver driver driver driver
 driver 1-pronoun 2045-2045 Person_or_Vehicle Person_or_Vehicle good night woke up JJ NN VBP RP driver driver driver driver
-driver non-pronoun 2052-2052 Person_or_Vehicle Person_or_Vehicle day two colleague Phil NN CD NN NNP driver driver driver driver
+driver 1-pronoun 2052-2052 Person_or_Vehicle Person_or_Vehicle day two colleague Phil NN CD NN NNP driver driver driver driver
 driver non-pronoun 2054-2055 Person_or_Vehicle Person_or_Vehicle your colleague arrived last PRP$ NN VBD JJ driver driver driver driver
 driver 1-pronoun 2060-2060 Person_or_Vehicle Person_or_Vehicle night and offered him NN CC VBD PRP driver driver driver driver
 driver coref-pronoun 2062-2062 Person_or_Vehicle Person_or_Vehicle you offered a ride PRP VBD DT NN driver driver driver driver
 driver coref-pronoun 2067-2067 Person_or_Vehicle Person_or_Vehicle ride to meeting room NN TO NN NN driver driver driver driver
 driver single-pronoun 2067-2069 Person_or_Vehicle Building_or_Public_Space ride to on the NN TO IN DT driver driver driver driver
-driver non-pronoun 2075-2075 Building_or_Public_Space Person_or_Vehicle way to own meeting NN TO JJ NN driver driver driver driver
+driver 1-pronoun 2075-2075 Building_or_Public_Space Person_or_Vehicle way to own meeting NN TO JJ NN driver driver driver driver
 driver non-pronoun 2080-2080 Person_or_Vehicle Person_or_Vehicle drop off at his NN IN IN PRP$ driver driver driver driver
 driver coref-pronoun 2082-2082 Person_or_Vehicle Person_or_Vehicle Phil at meeting at NNP IN NN IN driver driver driver driver
 driver non-pronoun 2085-2087 Person_or_Vehicle Building_or_Public_Space meeting at before going NN IN IN VBG driver driver driver driver
-driver non-pronoun 2091-2091 Building_or_Public_Space Person_or_Vehicle going to meeting at VBG TO NN IN driver driver driver driver
+driver 1-pronoun 2091-2091 Building_or_Public_Space Person_or_Vehicle going to meeting at VBG TO NN IN driver driver driver driver
 driver non-pronoun 2094-2095 Person_or_Vehicle Building_or_Public_Space meeting at okay Ian NN IN NN NNP driver driver driver driver
 driver non-pronoun 2099-2099 Building_or_Public_Space Person_or_Vehicle Start-Up okay good morning NN NN JJ NN driver driver driver driver
 driver 1-pronoun 2106-2106 Person_or_Vehicle Person_or_Vehicle good morning need to JJ NN VBP TO copilot copilot driver driver
@@ -292,7 +292,7 @@ driver coref-pronoun 2122-2122 Person_or_Vehicle Person_or_Vehicle I get from he
 driver coref-pronoun 2124-2124 Person_or_Vehicle Building_or_Public_Space there from to the EX IN TO DT driver driver copilot copilot
 copilot non-pronoun 2126-2129 Building_or_Public_Space Building_or_Public_Space here to let 's RB TO VBP POS driver copilot copilot
 copilot non-pronoun 2135-2137 Building_or_Public_Space Building_or_Public_Space out of first that 's IN IN RB IN POS copilot copilot copilot copilot
-copilot non-pronoun 2146-2146 Building_or_Public_Space Person_or_Vehicle 'll we guide you JJ PRP VB PRP copilot copilot copilot
+copilot 1-pronoun 2146-2146 Building_or_Public_Space Person_or_Vehicle 'll we guide you JJ PRP VB PRP copilot copilot copilot
 copilot 1-pronoun 2148-2148 Person_or_Vehicle Person_or_Vehicle 'll I guide there okay JJ PRP VBP EX NN copilot copilot copilot driver
 copilot coref-pronoun 2149-2149 Person_or_Vehicle Building_or_Public_Space guide you okay so NN PRP NN RB copilot copilot driver copilot
 copilot non-pronoun 2155-2156 Building_or_Public_Space Building_or_Public_Space back towards okay okay RB NNS NN NN copilot copilot driver driver
@@ -330,7 +330,7 @@ copilot non-pronoun 2376-2377 Building_or_Public_Space Road_or_Driveway and take
 copilot non-pronoun 2383-2383 Road_or_Driveway Building_or_Public_Space side of it 's NN IN PRP VBZ copilot copilot driver
 driver 1-pronoun 2388-2388 Building_or_Public_Space Person_or_Vehicle 's it interesting call car VBZ PRP JJ VBP NN driver driver driver driver
 driver 1-pronoun 2396-2396 Person_or_Vehicle Person_or_Vehicle expressways yes think it 's NNS VBZ VBP PRP VBZ driver copilot driver driver
-copilot non-pronoun 2415-2415 Person_or_Vehicle Person_or_Vehicle exactly so a European RB RB DT JJ copilot driver copilot copilot
+copilot 1-pronoun 2415-2415 Person_or_Vehicle Person_or_Vehicle exactly so a European RB RB DT JJ copilot driver copilot copilot
 copilot single-pronoun 2429-2429 Person_or_Vehicle Road_or_Driveway ohh to the left NN TO DT NN driver driver driver driver
 driver coref-pronoun 2432-2432 Road_or_Driveway Road_or_Driveway the left yes okay DT VBN VBZ NN driver driver copilot driver
 copilot 1-pronoun 2439-2439 Road_or_Driveway Person_or_Vehicle okay so think that NN IN VBP IN driver copilot copilot copilot
@@ -356,7 +356,7 @@ copilot non-pronoun 2676-2678 Building_or_Public_Space Building_or_Public_Space 
 copilot coref-pronoun 2684-2684 Building_or_Public_Space Road_or_Driveway turn right and continue NN RB CC VB copilot copilot copilot copilot
 copilot single-pronoun 2698-2699 Road_or_Driveway Road_or_Driveway end of all the NN IN DT DT copilot copilot copilot copilot
 copilot non-pronoun 2706-2708 Road_or_Driveway Other way to okay so NN TO VBP RB copilot copilot driver copilot
-copilot non-pronoun 2717-2717 Other Person_or_Vehicle as well seen that IN RB VBN IN copilot copilot copilot copilot
+copilot 1-pronoun 2717-2717 Other Person_or_Vehicle as well seen that IN RB VBN IN copilot copilot copilot copilot
 copilot non-pronoun 2723-2728 Person_or_Vehicle Building_or_Public_Space one of is out CD IN VBZ RP copilot copilot copilot copilot
 copilot coref-pronoun 2731-2731 Building_or_Public_Space Building_or_Public_Space is out which was VBZ IN WDT VBD copilot copilot copilot copilot
 copilot coref-pronoun 2745-2745 Building_or_Public_Space Building_or_Public_Space just now being converted RB RB VBG VBN copilot copilot copilot copilot
@@ -381,18 +381,18 @@ copilot single-pronoun 2924-2924 Person_or_Vehicle Road_or_Driveway turn over ne
 copilot coref-pronoun 2928-2930 Road_or_Driveway Person_or_Vehicle next to okay would JJ TO NN MD copilot copilot driver copilot
 copilot non-pronoun 2942-2944 Person_or_Vehicle Building_or_Public_Space park so is in NN IN VBZ IN copilot copilot copilot copilot
 copilot coref-pronoun 2947-2948 Building_or_Public_Space Building_or_Public_Space is in just here VBZ IN RB RB copilot copilot copilot copilot
-copilot non-pronoun 2959-2959 Building_or_Public_Space Person_or_Vehicle luck for meeting okay NN IN NN NN copilot copilot copilot driver
+copilot 1-pronoun 2959-2959 Building_or_Public_Space Person_or_Vehicle luck for meeting okay NN IN NN NN copilot copilot copilot driver
 driver 1-pronoun 2963-2963 Person_or_Vehicle Person_or_Vehicle okay thank so I 'm NN VBD RB PRP VBP driver driver driver driver
-driver non-pronoun 2965-2965 Person_or_Vehicle Person_or_Vehicle you so done with PRP RB NN IN driver driver driver driver
-driver non-pronoun 2968-2968 Person_or_Vehicle Person_or_Vehicle done with meeting okay NN IN NN NN driver driver driver driver
+driver 1-pronoun 2965-2965 Person_or_Vehicle Person_or_Vehicle you so done with PRP RB NN IN driver driver driver driver
+driver 1-pronoun 2968-2968 Person_or_Vehicle Person_or_Vehicle done with meeting okay NN IN NN NN driver driver driver driver
 driver 1-pronoun 2975-2975 Person_or_Vehicle Person_or_Vehicle meeting okay have very NN NN VB RB driver driver driver driver
 driver 1-pronoun 2979-2979 Person_or_Vehicle Person_or_Vehicle very success had a RB JJ VBD DT driver driver driver driver
 driver non-pronoun 2986-2989 Person_or_Vehicle Building_or_Public_Space meeting at they offered NN IN PRP VBD driver driver driver driver
 driver 1-pronoun 2992-2992 Building_or_Public_Space Person_or_Vehicle they offered a start PRP VBD DT NN driver driver driver driver
 driver 1-pronoun 3000-3000 Person_or_Vehicle Person_or_Vehicle million dollars have half NN NNS VBP DT driver driver driver driver
-driver non-pronoun 3006-3006 Person_or_Vehicle Person_or_Vehicle hour before next meeting PRP$ IN JJ NN driver driver driver driver
+driver 1-pronoun 3006-3006 Person_or_Vehicle Person_or_Vehicle hour before next meeting PRP$ IN JJ NN driver driver driver driver
 driver non-pronoun 3010-3012 Person_or_Vehicle Building_or_Public_Space meeting at make your NN IN VBP PRP$ driver driver driver driver
-driver non-pronoun 3019-3019 Building_or_Public_Space Person_or_Vehicle it to known to PRP TO NN TO driver driver driver driver
+driver 1-pronoun 3019-3019 Building_or_Public_Space Person_or_Vehicle it to known to PRP TO NN TO driver driver driver driver
 driver non-pronoun 3026-3026 Person_or_Vehicle Building_or_Public_Space meeting at on time NN IN IN NN driver driver driver driver
 driver 1-pronoun 3032-3032 Building_or_Public_Space Person_or_Vehicle time okay have half NN NN VBP PDT driver driver driver driver
 driver non-pronoun 3041-3041 Person_or_Vehicle Building_or_Public_Space get to but since NN TO CC IN driver driver driver driver
@@ -407,14 +407,14 @@ driver coref-pronoun 3068-3068 Building_or_Public_Space Building_or_Public_Space
 copilot non-pronoun 3069-3069 Building_or_Public_Space Building_or_Public_Space so here is actually IN RB VBZ RB copilot driver copilot copilot
 copilot non-pronoun 3079-3081 Building_or_Public_Space Building_or_Public_Space side of okay while NN IN NN IN copilot copilot driver copilot
 copilot 1-pronoun 3085-3085 Building_or_Public_Space Person_or_Vehicle okay while were in NN IN VBD IN driver copilot copilot copilot
-copilot non-pronoun 3088-3088 Person_or_Vehicle Person_or_Vehicle were in meeting you VBD IN NN PRP copilot copilot copilot copilot
+copilot 1-pronoun 3088-3088 Person_or_Vehicle Person_or_Vehicle were in meeting you VBD IN NN PRP copilot copilot copilot copilot
 copilot 1-pronoun 3090-3090 Person_or_Vehicle Person_or_Vehicle your meeting had a PRP$ NN VBD DT copilot copilot copilot copilot
 copilot 1-pronoun 3101-3101 Person_or_Vehicle Person_or_Vehicle okay so received a NN IN VBD DT driver copilot copilot copilot
 copilot non-pronoun 3108-3109 Person_or_Vehicle Person_or_Vehicle message from how did NN IN WRB VBD copilot copilot copilot copilot
-copilot non-pronoun 3113-3113 Person_or_Vehicle Person_or_Vehicle how did meeting go WRB VBD NN NN copilot copilot copilot copilot
-copilot non-pronoun 3116-3116 Person_or_Vehicle Person_or_Vehicle meeting go be at NN VBP VB IN copilot copilot copilot copilot
-copilot non-pronoun 3119-3119 Person_or_Vehicle Person_or_Vehicle be at house this VB IN NN DT copilot copilot copilot copilot
-copilot non-pronoun 3119-3120 Person_or_Vehicle Building_or_Public_Space be at this afternoon VB IN DT NN copilot copilot copilot copilot
+copilot 1-pronoun 3113-3113 Person_or_Vehicle Person_or_Vehicle how did meeting go WRB VBD NN NN copilot copilot copilot copilot
+copilot 1-pronoun 3116-3116 Person_or_Vehicle Person_or_Vehicle meeting go be at NN VBP VB IN copilot copilot copilot copilot
+copilot 1-pronoun 3119-3119 Person_or_Vehicle Person_or_Vehicle be at house this VB IN NN DT copilot copilot copilot copilot
+copilot 1-pronoun 3119-3120 Person_or_Vehicle Building_or_Public_Space be at this afternoon VB IN DT NN copilot copilot copilot copilot
 copilot 1-pronoun 3124-3124 Building_or_Public_Space Person_or_Vehicle afternoon if want to NN IN VBP TO copilot copilot copilot copilot
 driver 1-pronoun 3138-3138 Person_or_Vehicle Person_or_Vehicle okay since have half NN IN VBP PDT driver driver driver driver
 driver non-pronoun 3145-3145 Person_or_Vehicle Person_or_Vehicle 's let let 's VBZ VBN NN POS driver driver
@@ -425,19 +425,19 @@ driver coref-pronoun 3170-3170 Person_or_Vehicle Building_or_Public_Space get th
 driver coref-pronoun 3172-3172 Building_or_Public_Space Building_or_Public_Space there from so head EX IN RB NN driver driver copilot copilot
 copilot coref-pronoun 3169-3169 Building_or_Public_Space Building_or_Public_Space over get there from IN NN EX IN copilot driver driver driver
 copilot non-pronoun 3177-3179 Building_or_Public_Space Building_or_Public_Space head out to your NN IN TO PRP$ copilot copilot copilot copilot
-copilot non-pronoun 3182-3182 Building_or_Public_Space Person_or_Vehicle park to left okay NN TO NN NN copilot copilot copilot driver
+copilot 1-pronoun 3182-3182 Building_or_Public_Space Person_or_Vehicle park to left okay NN TO NN NN copilot copilot copilot driver
 copilot coref-pronoun 3187-3187 Person_or_Vehicle Building_or_Public_Space okay and only a NN CC RB DT driver copilot copilot copilot
-copilot non-pronoun 3195-3195 Building_or_Public_Space Person_or_Vehicle away so if you RB RB IN PRP copilot copilot copilot copilot
+copilot 1-pronoun 3195-3195 Building_or_Public_Space Person_or_Vehicle away so if you RB RB IN PRP copilot copilot copilot copilot
 copilot 1-pronoun 3197-3197 Person_or_Vehicle Person_or_Vehicle 'll you if do n't JJ PRP IN VBP RB copilot copilot copilot
-copilot non-pronoun 3203-3203 Person_or_Vehicle Person_or_Vehicle too long definitely make RB RB RB VB copilot copilot copilot copilot
-copilot non-pronoun 3211-3211 Person_or_Vehicle Person_or_Vehicle for okay meeting shall IN NN NN MD copilot driver copilot copilot
+copilot 1-pronoun 3203-3203 Person_or_Vehicle Person_or_Vehicle too long definitely make RB RB RB VB copilot copilot copilot copilot
+copilot 1-pronoun 3211-3211 Person_or_Vehicle Person_or_Vehicle for okay meeting shall IN NN NN MD copilot driver copilot copilot
 copilot 1-pronoun 3214-3214 Person_or_Vehicle Person_or_Vehicle meeting shall send a NN MD VBP DT copilot copilot copilot copilot
 copilot non-pronoun 3219-3219 Person_or_Vehicle Person_or_Vehicle message to to tell NN TO TO VB copilot copilot copilot copilot
 copilot coref-pronoun 3222-3222 Person_or_Vehicle Person_or_Vehicle to tell you 're TO VB PRP VBP copilot copilot copilot
-copilot non-pronoun 3223-3223 Person_or_Vehicle Person_or_Vehicle tell him coming yes NN PRP VBG NNS copilot copilot copilot driver
+copilot 1-pronoun 3223-3223 Person_or_Vehicle Person_or_Vehicle tell him coming yes NN PRP VBG NNS copilot copilot copilot driver
 driver 1-pronoun 3228-3228 Person_or_Vehicle Person_or_Vehicle yes can text him NNS MD VB PRP driver driver driver driver
 driver coref-pronoun 3230-3230 Person_or_Vehicle Person_or_Vehicle you text back saying PRP VBD RB VBG driver driver driver driver
-driver non-pronoun 3235-3235 Person_or_Vehicle Person_or_Vehicle saying that be there VBG IN VB RB driver driver driver driver
+driver 1-pronoun 3235-3235 Person_or_Vehicle Person_or_Vehicle saying that be there VBG IN VB RB driver driver driver driver
 driver coref-pronoun 3237-3237 Person_or_Vehicle Building_or_Public_Space 'll I be in five JJ PRP VB IN CD driver driver driver driver
 copilot 1-pronoun 3243-3243 Building_or_Public_Space Person_or_Vehicle minutes okay want to NNS VBP VBP TO driver copilot copilot copilot
 copilot single-pronoun 3251-3253 Person_or_Vehicle Building_or_Public_Space end of and then NN IN CC RB copilot copilot copilot copilot
@@ -446,51 +446,51 @@ copilot coref-pronoun 3272-3272 Road_or_Driveway Other here 'cause another there
 copilot coref-pronoun 3285-3285 Other Other clearly marked not okay RB VBD RB JJ driver driver copilot driver
 copilot coref-pronoun 3314-3316 Other Road_or_Driveway get into okay and NN IN NN CC copilot copilot driver copilot
 copilot single-pronoun 3324-3324 Road_or_Driveway Road_or_Driveway turn in to your NN IN TO PRP$ copilot copilot copilot copilot
-copilot non-pronoun 3326-3326 Road_or_Driveway Person_or_Vehicle here to left okay RB TO NN NN copilot copilot copilot driver
+copilot 1-pronoun 3326-3326 Road_or_Driveway Person_or_Vehicle here to left okay RB TO NN NN copilot copilot copilot driver
 copilot non-pronoun 3332-3334 Person_or_Vehicle Building_or_Public_Space okay into okay and NN IN NN CC driver copilot copilot copilot
 copilot non-pronoun 3345-3347 Building_or_Public_Space Road_or_Driveway right at here now RB IN RB RB copilot copilot copilot copilot
-copilot non-pronoun 3351-3351 Road_or_Driveway Person_or_Vehicle here now got an RB RB VBN DT copilot copilot copilot copilot
-copilot non-pronoun 3357-3357 Person_or_Vehicle Person_or_Vehicle message from an urgent NN IN DT NN copilot copilot copilot copilot
-copilot non-pronoun 3362-3362 Person_or_Vehicle Person_or_Vehicle message from colleague Phil NN IN NN NNP copilot copilot copilot copilot
+copilot 1-pronoun 3351-3351 Road_or_Driveway Person_or_Vehicle here now got an RB RB VBN DT copilot copilot copilot copilot
+copilot 1-pronoun 3357-3357 Person_or_Vehicle Person_or_Vehicle message from an urgent NN IN DT NN copilot copilot copilot copilot
+copilot 1-pronoun 3362-3362 Person_or_Vehicle Person_or_Vehicle message from colleague Phil NN IN NN NNP copilot copilot copilot copilot
 copilot non-pronoun 3364-3365 Person_or_Vehicle Person_or_Vehicle your colleague okay the PRP$ NN NN DT copilot copilot driver copilot
 copilot non-pronoun 3367-3369 Person_or_Vehicle Person_or_Vehicle Collison okay just got NNP NN RB VBD copilot driver copilot copilot
 copilot coref-pronoun 3372-3372 Person_or_Vehicle Building_or_Public_Space just got and I RB VBD CC PRP copilot copilot copilot copilot
 copilot 1-pronoun 3374-3374 Building_or_Public_Space Person_or_Vehicle here and left the RB CC VBD DT copilot copilot copilot copilot
 copilot non-pronoun 3376-3378 Person_or_Vehicle Other I left in your PRP VBD IN PRP$ copilot copilot copilot copilot
-copilot non-pronoun 3380-3380 Other Person_or_Vehicle report in back seat NN IN NN NN copilot copilot copilot copilot
-copilot non-pronoun 3380-3382 Person_or_Vehicle Other report in I need NN IN PRP VBP copilot copilot copilot copilot
+copilot 1-pronoun 3380-3380 Other Person_or_Vehicle report in back seat NN IN NN NN copilot copilot copilot copilot
+copilot 1-pronoun 3380-3382 Person_or_Vehicle Other report in I need NN IN PRP VBP copilot copilot copilot copilot
 copilot 1-pronoun 3383-3383 Other Person_or_Vehicle back seat need you RB VBD VBP PRP copilot copilot copilot copilot
 copilot 1-pronoun 3385-3385 Person_or_Vehicle Person_or_Vehicle I need to drop PRP VBP TO VB copilot copilot copilot copilot
 copilot coref-pronoun 3388-3388 Person_or_Vehicle Other to drop off as TO VB IN IN copilot copilot copilot copilot
-copilot non-pronoun 3362-3363 Other Person_or_Vehicle message from Phil Collison NN IN NNP NNP copilot copilot copilot copilot
+copilot 1-pronoun 3362-3363 Other Person_or_Vehicle message from Phil Collison NN IN NNP NNP copilot copilot copilot copilot
 driver non-pronoun 3403-3404 Person_or_Vehicle Person_or_Vehicle text back saying that NN RB NN IN driver driver driver driver
 driver 1-pronoun 3407-3407 Person_or_Vehicle Person_or_Vehicle saying that wo n't VBG IN MD RB driver driver driver
 driver 1-pronoun 3418-3418 Person_or_Vehicle Person_or_Vehicle 's let know go VBZ VBN VBP VBP driver driver driver
 driver non-pronoun 3423-3425 Person_or_Vehicle Building_or_Public_Space back to okay in RB TO VBP IN driver driver copilot driver
 driver non-pronoun 3431-3434 Building_or_Public_Space Building_or_Public_Space in yes correct that 's IN NNS VBP IN POS driver copilot copilot driver
-driver non-pronoun 3437-3437 Building_or_Public_Space Person_or_Vehicle 's that how do VBZ DT WRB VBP driver driver driver
+driver 1-pronoun 3437-3437 Building_or_Public_Space Person_or_Vehicle 's that how do VBZ DT WRB VBP driver driver driver
 driver 1-pronoun 3440-3440 Person_or_Vehicle Person_or_Vehicle how do get to WRB VBP VB TO driver driver driver driver
 driver non-pronoun 3443-3445 Person_or_Vehicle Building_or_Public_Space get to from here NN TO IN RB driver driver driver driver
 driver single-pronoun 3447-3447 Building_or_Public_Space Building_or_Public_Space barracks from so fastest NNS IN RB VBP driver driver copilot driver
 copilot coref-pronoun 3464-3465 Building_or_Public_Space Road_or_Driveway continue on for a NN IN IN DT copilot copilot copilot copilot
-copilot non-pronoun 3473-3473 Road_or_Driveway Person_or_Vehicle okay and send that NN CC VB IN copilot copilot copilot copilot
+copilot 1-pronoun 3473-3473 Road_or_Driveway Person_or_Vehicle okay and send that NN CC VB IN copilot copilot copilot copilot
 copilot non-pronoun 3480-3480 Person_or_Vehicle Person_or_Vehicle off to okay and IN TO NN CC copilot copilot driver copilot
 copilot 1-pronoun 3484-3484 Person_or_Vehicle Person_or_Vehicle and should tell Phil CC MD VBP NNP copilot copilot copilot copilot
 copilot non-pronoun 3486-3486 Person_or_Vehicle Person_or_Vehicle I tell that you 're PRP VBP IN PRP VBP copilot copilot copilot copilot
-copilot non-pronoun 3488-3488 Person_or_Vehicle Person_or_Vehicle Phil that on your NNP IN IN PRP$ copilot copilot copilot copilot
-copilot non-pronoun 3490-3490 Person_or_Vehicle Person_or_Vehicle 're you on way yes JJ PRP IN NN NNS copilot copilot copilot driver
+copilot 1-pronoun 3488-3488 Person_or_Vehicle Person_or_Vehicle Phil that on your NNP IN IN PRP$ copilot copilot copilot copilot
+copilot 1-pronoun 3490-3490 Person_or_Vehicle Person_or_Vehicle 're you on way yes JJ PRP IN NN NNS copilot copilot copilot driver
 driver coref-pronoun 3496-3496 Person_or_Vehicle Person_or_Vehicle please text saying that NN VBD VBG IN driver driver driver driver
-driver non-pronoun 3500-3500 Person_or_Vehicle Person_or_Vehicle saying that be there VBG IN VB RB driver driver driver driver
+driver 1-pronoun 3500-3500 Person_or_Vehicle Person_or_Vehicle saying that be there VBG IN VB RB driver driver driver driver
 driver coref-pronoun 3502-3502 Person_or_Vehicle Building_or_Public_Space 'll I be in go JJ PRP VB IN NN driver driver driver copilot
 driver coref-pronoun 3515-3515 Building_or_Public_Space Person_or_Vehicle off so I think IN RB PRP VBP driver copilot copilot copilot
 copilot 1-pronoun 3516-3516 Person_or_Vehicle Person_or_Vehicle so his think you 'll IN PRP$ VBP PRP MD copilot driver copilot copilot
 copilot coref-pronoun 3521-3521 Person_or_Vehicle Building_or_Public_Space actually be in three RB VB IN CD copilot copilot copilot copilot
-copilot non-pronoun 3525-3525 Building_or_Public_Space Person_or_Vehicle three but send that CD CC VB IN copilot copilot copilot copilot
+copilot 1-pronoun 3525-3525 Building_or_Public_Space Person_or_Vehicle three but send that CD CC VB IN copilot copilot copilot copilot
 driver coref-pronoun 3532-3532 Person_or_Vehicle Person_or_Vehicle okay let know I 'll NN VBD VB PRP MD driver driver driver driver
 driver coref-pronoun 3536-3536 Person_or_Vehicle Building_or_Public_Space 'll I be in three JJ PRP VB IN CD driver driver driver driver
 copilot non-pronoun 3545-3545 Building_or_Public_Space Person_or_Vehicle message from okay thanks NN IN NN NNS copilot copilot driver copilot
 copilot 1-pronoun 3550-3550 Person_or_Vehicle Person_or_Vehicle a lot I 'll DT NN PRP MD copilot copilot copilot
-copilot non-pronoun 3551-3551 Person_or_Vehicle Person_or_Vehicle lot I be waiting NN PRP VB VBG copilot copilot copilot copilot
+copilot 1-pronoun 3551-3551 Person_or_Vehicle Person_or_Vehicle lot I be waiting NN PRP VB VBG copilot copilot copilot copilot
 copilot 1-pronoun 3555-3555 Person_or_Vehicle Road_or_Driveway waiting for at the VBG IN IN DT copilot copilot copilot copilot
 copilot non-pronoun 3557-3559 Road_or_Driveway Other you at okay I PRP IN NN PRP copilot copilot driver copilot
 copilot 1-pronoun 3561-3561 Other Person_or_Vehicle door okay think there 's NN NN VBP RB VBZ copilot driver copilot copilot
@@ -505,7 +505,7 @@ copilot non-pronoun 3734-3738 Other Traffic_Signal just after the stop RB IN DT 
 driver non-pronoun 3739-3741 Traffic_Signal Traffic_Signal after sign okay continue IN NN NN NN driver copilot driver copilot
 copilot non-pronoun 3748-3750 Traffic_Signal Building_or_Public_Space around to we want IN TO PRP VBP copilot copilot copilot copilot
 copilot non-pronoun 3760-3764 Building_or_Public_Space Traffic_Signal end of and then NN IN CC RB copilot copilot copilot copilot
-copilot non-pronoun 3774-3774 Traffic_Signal Person_or_Vehicle ohh so got an NN IN VBN DT copilot copilot copilot copilot
+copilot 1-pronoun 3774-3774 Traffic_Signal Person_or_Vehicle ohh so got an NN IN VBN DT copilot copilot copilot copilot
 copilot non-pronoun 3780-3780 Person_or_Vehicle Person_or_Vehicle message from okay too NN IN NN RB copilot copilot driver copilot
 copilot 1-pronoun 3785-3785 Person_or_Vehicle Person_or_Vehicle too bad could n't RB JJ MD RB copilot copilot copilot
 copilot 1-pronoun 3791-3791 Person_or_Vehicle Person_or_Vehicle how about hit up WRB IN VBP RP copilot copilot copilot copilot
@@ -513,9 +513,9 @@ copilot 1-pronoun 3798-3798 Person_or_Vehicle Person_or_Vehicle tonight are free
 copilot coref-pronoun 3808-3808 Person_or_Vehicle Road_or_Driveway turn right yeah if NN RB JJ IN copilot copilot driver driver
 driver 1-pronoun 3813-3813 Road_or_Driveway Person_or_Vehicle yeah if can email NN IN MD VB driver driver driver driver
 driver non-pronoun 3819-3819 Person_or_Vehicle Person_or_Vehicle email back saying that NN RB VBG IN driver driver driver driver
-driver non-pronoun 3823-3823 Person_or_Vehicle Person_or_Vehicle saying that be free VBG IN VB JJ driver driver driver driver
+driver 1-pronoun 3823-3823 Person_or_Vehicle Person_or_Vehicle saying that be free VBG IN VB JJ driver driver driver driver
 driver 1-pronoun 3834-3834 Person_or_Vehicle Person_or_Vehicle good for okay I 'll JJ IN VBP PRP MD driver driver copilot copilot
-copilot non-pronoun 3836-3836 Person_or_Vehicle Person_or_Vehicle you okay send that PRP VBP VB IN driver copilot copilot copilot
+copilot 1-pronoun 3836-3836 Person_or_Vehicle Person_or_Vehicle you okay send that PRP VBP VB IN driver copilot copilot copilot
 copilot non-pronoun 3841-3841 Person_or_Vehicle Person_or_Vehicle off to gon na IN TO NN NN copilot copilot copilot
 copilot non-pronoun 3860-3862 Person_or_Vehicle Other just past we 'll RB JJ PRP MD copilot copilot copilot
 copilot non-pronoun 3866-3868 Other Building_or_Public_Space turn into over here NN IN IN RB copilot copilot copilot copilot
@@ -525,12 +525,12 @@ driver non-pronoun 3881-3881 Person_or_Vehicle Person_or_Vehicle I see and gon n
 driver coref-pronoun 3886-3886 Person_or_Vehicle Person_or_Vehicle drop off report good NN IN NN VBD driver driver driver driver
 driver coref-pronoun 3886-3887 Person_or_Vehicle Other drop off good luck NN IN VBD NN driver driver driver driver
 driver non-pronoun 3891-3891 Other Person_or_Vehicle good luck okay so JJ NN NN IN driver driver driver driver
-driver non-pronoun 3897-3897 Person_or_Vehicle Person_or_Vehicle okay so I 'm NN IN PRP VBP driver driver driver
-driver non-pronoun 3899-3899 Person_or_Vehicle Person_or_Vehicle 'm I done now NN PRP NN RB driver driver driver
+driver 1-pronoun 3897-3897 Person_or_Vehicle Person_or_Vehicle okay so I 'm NN IN PRP VBP driver driver driver
+driver 1-pronoun 3899-3899 Person_or_Vehicle Person_or_Vehicle 'm I done now NN PRP NN RB driver driver driver
 driver 1-pronoun 3905-3905 Person_or_Vehicle Person_or_Vehicle and okay I think CC VBP PRP VBP driver copilot copilot driver
 driver 1-pronoun 3909-3909 Person_or_Vehicle Person_or_Vehicle think see should go NN VBP MD VB driver copilot driver driver
 copilot 1-pronoun 3906-3906 Person_or_Vehicle Person_or_Vehicle okay I think see NN PRP VBP VB copilot driver driver copilot
-copilot non-pronoun 3922-3922 Person_or_Vehicle Person_or_Vehicle minutes until meeting at NNS IN NN IN copilot copilot copilot copilot
+copilot 1-pronoun 3922-3922 Person_or_Vehicle Person_or_Vehicle minutes until meeting at NNS IN NN IN copilot copilot copilot copilot
 copilot non-pronoun 3925-3925 Person_or_Vehicle Building_or_Public_Space meeting at so let 's NN IN RB VB POS copilot copilot copilot driver
 driver non-pronoun 3930-3930 Building_or_Public_Space Person_or_Vehicle 's let what 's VBZ VBN WP VBZ driver driver
 driver non-pronoun 3939-3939 Person_or_Vehicle Building_or_Public_Space back to so we 'll RB TO RB PRP MD driver driver copilot copilot
@@ -543,7 +543,7 @@ driver single-pronoun 3992-3992 Road_or_Driveway Building_or_Public_Space ohh is
 copilot coref-pronoun 4001-4001 Building_or_Public_Space Building_or_Public_Space yeah so a baseball NN IN DT NN copilot copilot copilot copilot
 driver coref-pronoun 4024-4025 Building_or_Public_Space Building_or_Public_Space oh wow must be NN VBD MD VB driver driver driver driver
 driver coref-pronoun 4033-4033 Building_or_Public_Space Building_or_Public_Space property value that 's NN NN IN POS driver driver driver
-driver non-pronoun 4040-4040 Building_or_Public_Space Person_or_Vehicle open land very surprised JJ NN RB VBN driver driver driver driver
+driver 1-pronoun 4040-4040 Building_or_Public_Space Person_or_Vehicle open land very surprised JJ NN RB VBN driver driver driver driver
 driver non-pronoun 4044-4045 Person_or_Vehicle Building_or_Public_Space surprised that has this VBD IN VBZ DT driver driver driver driver
 driver coref-pronoun 4051-4051 Building_or_Public_Space Building_or_Public_Space open land it just JJ NN PRP RB driver driver driver driver
 copilot non-pronoun 4076-4076 Building_or_Public_Space Building_or_Public_Space officially in now so RB IN RB RB copilot copilot copilot copilot
@@ -569,13 +569,13 @@ copilot coref-pronoun 4353-4353 Other Building_or_Public_Space front of got a NN
 driver single-pronoun 4361-4361 Building_or_Public_Space Road_or_Driveway way thing again not NN NN RB RB driver driver driver driver
 copilot 1-pronoun 4368-4368 Road_or_Driveway Person_or_Vehicle well labeled know okay RB VBN VBP NN driver driver copilot driver
 driver single-pronoun 4374-4374 Person_or_Vehicle Road_or_Driveway park right okay so NN RB VBP RB driver driver driver driver
-driver non-pronoun 4377-4377 Road_or_Driveway Person_or_Vehicle okay so at Nano NN IN IN NNP driver driver driver driver
+driver 1-pronoun 4377-4377 Road_or_Driveway Person_or_Vehicle okay so at Nano NN IN IN NNP driver driver driver driver
 driver non-pronoun 4379-4379 Person_or_Vehicle Building_or_Public_Space 'm I at okay good NN PRP IN NN JJ driver driver copilot copilot
-copilot non-pronoun 4385-4385 Building_or_Public_Space Person_or_Vehicle luck for meeting okay NN IN NN NN copilot copilot copilot driver
-driver non-pronoun 4391-4391 Person_or_Vehicle Person_or_Vehicle another one meeting at DT CD NN IN driver driver driver driver
+copilot 1-pronoun 4385-4385 Building_or_Public_Space Person_or_Vehicle luck for meeting okay NN IN NN NN copilot copilot copilot driver
+driver 1-pronoun 4391-4391 Person_or_Vehicle Person_or_Vehicle another one meeting at DT CD NN IN driver driver driver driver
 driver non-pronoun 4394-4394 Person_or_Vehicle Building_or_Public_Space meeting at was uneventful NN IN VBD JJ driver driver driver driver
 driver non-pronoun 4402-4403 Building_or_Public_Space Building_or_Public_Space back to to wash RB TO TO VB driver driver driver driver
-driver non-pronoun 4413-4413 Building_or_Public_Space Person_or_Vehicle okay so done with NN IN NN IN driver driver driver driver
+driver 1-pronoun 4413-4413 Building_or_Public_Space Person_or_Vehicle okay so done with NN IN NN IN driver driver driver driver
 driver non-pronoun 4420-4420 Person_or_Vehicle Person_or_Vehicle meeting so how do NN IN WRB VBP driver driver driver driver
 driver 1-pronoun 4423-4423 Person_or_Vehicle Person_or_Vehicle how do get back WRB VBP VB RB driver driver driver driver
 driver non-pronoun 4427-4428 Person_or_Vehicle Building_or_Public_Space back to just before RB TO RB IN driver driver copilot copilot
@@ -583,16 +583,16 @@ copilot 1-pronoun 4433-4433 Building_or_Public_Space Person_or_Vehicle just befo
 copilot 1-pronoun 4436-4436 Person_or_Vehicle Person_or_Vehicle head off got an NN IN VBD DT copilot copilot copilot copilot
 copilot non-pronoun 4444-4444 Person_or_Vehicle Person_or_Vehicle message from while you NN IN IN PRP copilot copilot copilot copilot
 copilot 1-pronoun 4446-4446 Person_or_Vehicle Person_or_Vehicle Sam while were at NNP IN VBD IN copilot copilot copilot copilot
-copilot non-pronoun 4449-4449 Person_or_Vehicle Person_or_Vehicle were at meeting and VBD IN NN CC copilot copilot copilot copilot
+copilot 1-pronoun 4449-4449 Person_or_Vehicle Person_or_Vehicle were at meeting and VBD IN NN CC copilot copilot copilot copilot
 copilot non-pronoun 4454-4454 Person_or_Vehicle Person_or_Vehicle meeting and said seven NN CC VBD CD copilot copilot copilot copilot
 copilot 1-pronoun 4464-4464 Person_or_Vehicle Person_or_Vehicle how about stop by WRB IN VBP IN copilot copilot copilot copilot
-copilot non-pronoun 4467-4467 Person_or_Vehicle Person_or_Vehicle stop by hotel and NN IN NN CC copilot copilot copilot copilot
-copilot non-pronoun 4467-4468 Person_or_Vehicle Building_or_Public_Space stop by and we NN IN CC PRP copilot copilot copilot copilot
+copilot 1-pronoun 4467-4467 Person_or_Vehicle Person_or_Vehicle stop by hotel and NN IN NN CC copilot copilot copilot copilot
+copilot 1-pronoun 4467-4468 Person_or_Vehicle Building_or_Public_Space stop by and we NN IN CC PRP copilot copilot copilot copilot
 copilot 1-pronoun 4470-4470 Building_or_Public_Space Person_or_Vehicle hotel and head out NN CC VBP RP copilot copilot copilot copilot
 copilot 1-pronoun 4479-4479 Person_or_Vehicle Person_or_Vehicle place that know nearby NN IN VBP JJ copilot copilot copilot copilot
 driver non-pronoun 4486-4486 Person_or_Vehicle Person_or_Vehicle nearby okay please text JJ NN NN NN copilot driver driver driver
 driver coref-pronoun 4489-4489 Person_or_Vehicle Person_or_Vehicle please text back saying NN VBD RB VBG driver driver driver driver
-driver non-pronoun 4499-4499 Person_or_Vehicle Person_or_Vehicle be fine meet you VB VBN VB PRP driver driver driver driver
+driver 1-pronoun 4499-4499 Person_or_Vehicle Person_or_Vehicle be fine meet you VB VBN VB PRP driver driver driver driver
 driver 1-pronoun 4501-4501 Person_or_Vehicle Person_or_Vehicle 'll I meet in front JJ PRP VBP IN JJ driver driver driver driver
 driver non-pronoun 4505-4506 Person_or_Vehicle Building_or_Public_Space front of at seven NN IN IN CD driver driver driver driver
 copilot non-pronoun 4519-4520 Building_or_Public_Space Person_or_Vehicle message from thank you NN IN VBP PRP copilot copilot copilot copilot
@@ -606,16 +606,16 @@ driver non-pronoun 4553-4553 Person_or_Vehicle Person_or_Vehicle would hoping an
 driver non-pronoun 4556-4556 Person_or_Vehicle Person_or_Vehicle Phil and are are NNP CC VBP VBP driver driver driver driver
 driver 1-pronoun 4563-4563 Person_or_Vehicle Person_or_Vehicle as well will email IN RB MD VB driver driver driver driver
 driver coref-pronoun 4569-4569 Person_or_Vehicle Person_or_Vehicle or text back saying CC VBN RB VBG driver driver driver driver
-driver non-pronoun 4573-4573 Person_or_Vehicle Person_or_Vehicle saying yeah heading off VBG NN VBG RP driver driver driver driver
+driver 1-pronoun 4573-4573 Person_or_Vehicle Person_or_Vehicle saying yeah heading off VBG NN VBG RP driver driver driver driver
 driver non-pronoun 4582-4582 Person_or_Vehicle Person_or_Vehicle restaurant with why do n't NN IN WRB VBP RB driver driver driver driver
 driver 1-pronoun 4586-4586 Person_or_Vehicle Person_or_Vehicle n't do join us RB VBP VB PRP driver driver driver
-driver non-pronoun 4588-4588 Person_or_Vehicle Person_or_Vehicle you join okay I 'll PRP VBP MD PRP MD driver driver copilot copilot
-copilot non-pronoun 4590-4590 Person_or_Vehicle Person_or_Vehicle us okay you text PRP VBP PRP VB driver copilot driver driver
+driver 1-pronoun 4588-4588 Person_or_Vehicle Person_or_Vehicle you join okay I 'll PRP VBP MD PRP MD driver driver copilot copilot
+copilot 1-pronoun 4590-4590 Person_or_Vehicle Person_or_Vehicle us okay you text PRP VBP PRP VB driver copilot driver driver
 copilot coref-pronoun 4603-4603 Person_or_Vehicle Person_or_Vehicle at Facebook not friends IN NNP RB NNS copilot copilot copilot copilot
 copilot coref-pronoun 4612-4612 Person_or_Vehicle Person_or_Vehicle moment but might be NN CC MD VB copilot copilot copilot copilot
 driver 1-pronoun 4591-4591 Person_or_Vehicle Person_or_Vehicle 'll I text send JJ PRP VBP VBP copilot driver copilot
 driver coref-pronoun 4594-4594 Person_or_Vehicle Person_or_Vehicle text send back it NN VBP RB PRP driver copilot driver copilot
-copilot non-pronoun 4623-4623 Person_or_Vehicle Person_or_Vehicle okay so guide you NN IN VB PRP copilot copilot copilot copilot
+copilot 1-pronoun 4623-4623 Person_or_Vehicle Person_or_Vehicle okay so guide you NN IN VB PRP copilot copilot copilot copilot
 copilot 1-pronoun 4625-4625 Person_or_Vehicle Person_or_Vehicle 'll I guide back to JJ PRP VBP RB TO copilot copilot copilot copilot
 copilot non-pronoun 4628-4629 Person_or_Vehicle Building_or_Public_Space back to okay and RB TO NN CC copilot copilot driver copilot
 copilot single-pronoun 4639-4641 Building_or_Public_Space Road_or_Driveway here in and then RB IN CC RB copilot copilot copilot copilot
@@ -642,4 +642,4 @@ copilot non-pronoun 4816-4816 Person_or_Vehicle Person_or_Vehicle Phil and tonig
 driver 1-pronoun 4820-4820 Person_or_Vehicle Person_or_Vehicle okay thank Ian do NN VBD NNP VBP driver driver driver driver
 driver non-pronoun 4821-4821 Person_or_Vehicle Person_or_Vehicle thank you do I NN PRP VBP PRP driver driver driver driver
 driver 1-pronoun 4823-4823 Person_or_Vehicle Person_or_Vehicle Ian do turn off JJ VBP VB RP driver driver driver driver
-copilot non-pronoun 3518-3518 Person_or_Vehicle Person_or_Vehicle I think actually be PRP VBP RB VB copilot copilot copilot copilot
+copilot 1-pronoun 3518-3518 Person_or_Vehicle Person_or_Vehicle I think actually be PRP VBP RB VB copilot copilot copilot copilot

@@ -11,4 +11,10 @@ trainPath=$root/Update_NLU/TrainData/TextOB
 mkdir -p $trainPath
 trainfile=$trainPath/CESAR_Jun-Sun-3-09-09-17-2012.txt
 
-$tool $ftrfile $trainfile
+for ftrfile in $ftrPath/*.txt;
+do
+	filename=$(basename $ftrfile)
+	trainfile=$trainPath/$filename
+	echo "$tool $ftrfile $trainfile"
+	$tool $ftrfile $trainfile
+done

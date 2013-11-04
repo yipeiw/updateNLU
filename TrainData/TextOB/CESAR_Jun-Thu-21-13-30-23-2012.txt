@@ -1,0 +1,557 @@
+NONE Person_or_Vehicle yes so have s- NNS IN VBP -NONE- copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle choices so can go NNS IN MD VB copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space go to a bowling IN TO DT NN copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space center a commissary or NN DT NN CC copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space bowling alley or a VBG NN CC DT copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space commissary or how about JJ CC WRB IN copilot copilot driver driver
+Building_or_Public_Space Building_or_Public_Space how about okay so WRB IN NN RB driver driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle so do like directions IN VBP IN NNS copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to sure okay NNS TO NN NN copilot copilot driver copilot
+Building_or_Public_Space Building_or_Public_Space out of I 'll IN IN PRP MD copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle parking lot give you VBG NN VB PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle 'll I give directions to JJ PRP VBP NNS TO copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to alright so NNS TO NN RB copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle weird yeah is a NN NN VBZ DT driver copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space we leave now we 're PRP VBP RB PRP VBP copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle and then go left CC RB VBP VBN driver driver driver driver
+Person_or_Vehicle Road_or_Driveway left you make a VBD PRP VBP DT driver copilot copilot copilot
+Road_or_Driveway Person_or_Vehicle go left here make IN VBN RB VBP driver driver driver copilot
+Person_or_Vehicle Road_or_Driveway a left and left DT VBN CC VBN copilot copilot driver driver
+Road_or_Driveway Road_or_Driveway then at we make RB IN PRP VBP copilot copilot copilot copilot
+Road_or_Driveway Road_or_Driveway we follow all the PRP VBP DT DT copilot copilot copilot copilot
+Road_or_Driveway Building_or_Public_Space end and will be NN CC MD VB copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle be on left hand VB IN NN NN copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space easy yep is i- JJ NN VBZ JJ driver copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space in fact was me- IN NN VBD JJ copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle more vibrant think many JJR JJ VBP JJ copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle there was who came EX VBD WP VBD copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space who came this morning WP VBD DT NN copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle us that mean he PRP IN VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle I mean was he PRP VBP VBD PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle he was grew up PRP VBD VBD RP copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space up in and they IN IN CC PRP copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space bowling alley was functional VBG NN VBD JJ copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space there is is still EX VBZ VBZ RB copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space personnel come for the NN VBN IN DT copilot copilot copilot copilot
+Building_or_Public_Space Traffic_Signal straight after we 're RB IN PRP VBP copilot copilot driver
+Traffic_Signal Road_or_Driveway going around we make VBG IN PRP VBP driver driver copilot copilot
+Road_or_Driveway Road_or_Driveway just after at the RB IN IN DT copilot copilot copilot copilot
+Road_or_Driveway Road_or_Driveway intersection at this one NN IN DT CD copilot copilot driver driver
+Road_or_Driveway Road_or_Driveway left right just after VBD VBN RB IN copilot driver copilot copilot
+Road_or_Driveway Road_or_Driveway next one yes ohh JJ CD VBZ NN copilot copilot copilot driver
+Road_or_Driveway Building_or_Public_Space really is there is RB VBZ EX VBZ driver driver copilot copilot
+Building_or_Public_Space Building_or_Public_Space there is or did EX VBZ CC VBD copilot copilot driver driver
+Building_or_Public_Space Other you put there no PRP VBD EX DT driver driver driver copilot
+Other Building_or_Public_Space that sign no we DT NN DT PRP driver driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle and then make a CC RB VBP DT copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space left into that 's VBD IN WDT VBZ copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space behind right here alright IN RB RB VBD copilot driver driver driver
+Building_or_Public_Space Road_or_Driveway the museum alright and DT NN VBD CC copilot copilot driver driver
+Road_or_Driveway Building_or_Public_Space and park you can CC VBD PRP MD driver driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle park here can park NN RB MD VB driver driver copilot copilot
+Person_or_Vehicle Other convenient and is supposed NN CC VBZ VBN copilot copilot copilot copilot
+Other Person_or_Vehicle so let see I IN NN VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle me see think the PRP VBP VBP DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle tasks for are those NNS IN VBP DT copilot copilot copilot copilot
+Person_or_Vehicle Other you are alright so PRP VBP NN IN copilot copilot driver driver
+Other Building_or_Public_Space alright so gym McDonald 's NN IN NN NNP POS driver driver driver driver
+Building_or_Public_Space Building_or_Public_Space post office McDonald 's NN NN NNP POS driver driver driver
+Building_or_Public_Space Building_or_Public_Space office gym hotel okay NN NN NN NN driver driver driver copilot
+Building_or_Public_Space Building_or_Public_Space 's McDonald okay so VBZ NNP NN RB driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle alright would like to NN MD VB TO driver copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space go next okay would IN JJ NN MD copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle okay would like directions NN MD VB NNS copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to yes please NNS TO VBZ NN copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle so when leave the IN WRB VBP DT copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space you leave I will PRP VBP PRP MD copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle parking lot will give VBG NN MD VB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle will give directions ohh MD VB NNS VBP copilot copilot copilot driver
+Person_or_Vehicle Road_or_Driveway ohh is the right NN VBZ DT NN driver driver driver driver
+Road_or_Driveway Road_or_Driveway right way is the RB NN VBZ DT driver driver copilot copilot
+Road_or_Driveway Road_or_Driveway left at and keep VBD IN CC VB copilot copilot driver driver
+Road_or_Driveway Road_or_Driveway going through we keep VBG IN PRP VBP driver driver copilot copilot
+Road_or_Driveway Road_or_Driveway going through at the VBG IN IN DT copilot copilot driver driver
+Road_or_Driveway Road_or_Driveway junction at we make NN IN PRP VBP copilot driver driver driver
+Road_or_Driveway Road_or_Driveway we follow yes straight PRP VBP VBZ JJ copilot copilot copilot copilot
+Road_or_Driveway Traffic_Signal way to see the NN TO NN DT copilot copilot copilot copilot
+Traffic_Signal Building_or_Public_Space sign see ohh nice NN VBP NN NN copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle then did say right RB VBD VB RB driver driver driver driver
+Person_or_Vehicle Traffic_Signal right at you make RB IN PRP VBP driver driver copilot copilot
+Traffic_Signal Person_or_Vehicle stop sign make a NN NN VBP DT driver driver copilot copilot
+Person_or_Vehicle Traffic_Signal right at the post RB IN DT NN copilot copilot copilot copilot
+Traffic_Signal Building_or_Public_Space stop sign will be NN NN MD VB copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space ohh there is and NN EX VBZ CC driver driver driver copilot
+Building_or_Public_Space Person_or_Vehicle is and make a VBZ CC VBP DT driver copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space left into and park VBD IN CC NN copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space park behind so can NN IN RB MD copilot copilot driver driver
+Building_or_Public_Space Building_or_Public_Space people visit just for NNS VBP RB IN driver driver driver driver
+Building_or_Public_Space Building_or_Public_Space for fun and stuff IN VBN CC NN driver driver driver driver
+Building_or_Public_Space Building_or_Public_Space is that for I 've VBZ IN IN PRP VBP driver driver driver copilot
+Building_or_Public_Space Person_or_Vehicle museum for seen people NN IN VBN NNS copilot driver copilot copilot
+Person_or_Vehicle Building_or_Public_Space people visiting but I NNS VBG CC PRP copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle museum but do n't NN CC VBP RB copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle n't do have not RB VBP VB RB copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle myself so do n't PRP RB VBP RB copilot copilot copilot
+Person_or_Vehicle Other there the and a EX DT CC DT copilot copilot copilot copilot
+Other Building_or_Public_Space go to okay so IN TO NN RB driver driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle so would need directions IN MD VBP NNS copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to so let 's NNS TO RB VB POS copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space 's let leave I 'll VBZ VBN JJ PRP MD copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle parking lot give you VBG NN VB PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle 'll I give directions to JJ PRP VBP NNS TO copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to so we 're NNS TO RB PRP VBP copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle right am going to RB VBP VBG TO copilot driver driver driver
+Person_or_Vehicle Road_or_Driveway to go yes so TO VB NNS RB driver driver copilot copilot
+Road_or_Driveway Road_or_Driveway a right you have DT NN PRP VBP copilot copilot copilot copilot
+Road_or_Driveway Person_or_Vehicle right here have a RB RB VBP DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle notification ohh will need NN NN MD VB copilot driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle gas before can go NN IN MD VB copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space go to alright so IN TO NN RB copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle so would like to IN MD VB TO driver copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space go to I would IN TO PRP MD copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle gas station would like NN NN MD VB copilot copilot driver driver
+Person_or_Vehicle Building_or_Public_Space go to okay does IN TO NN VBZ driver driver copilot driver
+Building_or_Public_Space Other okay does say would NN VBZ VB MD copilot driver driver copilot
+Other Person_or_Vehicle say would need directions VBP MD VBP NNS driver copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to yes okay NNS TO NNS VBP copilot copilot driver copilot
+Building_or_Public_Space Road_or_Driveway right at we go RB IN PRP VBP copilot copilot copilot copilot
+Road_or_Driveway Traffic_Signal straight after are you RB IN VBP PRP copilot copilot copilot copilot
+Traffic_Signal Person_or_Vehicle sign are in school NN VBP IN NN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle as well graduated recently IN RB VBD RB copilot copilot driver driver
+Person_or_Vehicle Person_or_Vehicle recently but see I 'm RB CC VBP PRP VBP driver driver copilot driver
+Person_or_Vehicle Person_or_Vehicle I see still here PRP VBP RB RB copilot copilot driver driver
+Person_or_Vehicle Building_or_Public_Space 'm I still so it NN PRP RB RB PRP driver driver driver driver
+Building_or_Public_Space Person_or_Vehicle like recently went to IN RB VBD TO driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle what did do at WP VBD VBP IN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle at Stanford studied psychology IN NNP VBD NN copilot copilot driver driver
+Person_or_Vehicle Person_or_Vehicle right before graduated I RB IN VBD PRP driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle I graduated realized what PRP VBD VBD WP driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle realized what really loved VBD WP RB VBD driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle was neuroscience see but VBD NN VBP CC driver driver copilot driver
+Person_or_Vehicle Person_or_Vehicle even though suppose you RB IN VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle I suppose can did PRP VBP MD VB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle can did go to MD VBD VB TO copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle or did finish I CC VBD VB PRP copilot copilot copilot driver
+Person_or_Vehicle Person_or_Vehicle you finish got my PRP VBP VBD PRP$ copilot copilot driver driver
+Person_or_Vehicle Person_or_Vehicle I got masters in PRP VBD NNS IN driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle in psychology studied adult IN NN VBD NN driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle and now a freelance CC RB DT NN driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle writer so are interesting NN IN VBP VBG driver driver copilot copilot
+Person_or_Vehicle Road_or_Driveway left at Stegner fellowship VBD IN NNP NN copilot copilot copilot copilot
+Road_or_Driveway Person_or_Vehicle that what wish no DT WP VBP DT copilot copilot driver driver
+Person_or_Vehicle Person_or_Vehicle wish no just writing NN DT RB VBG driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle 's it cool can live VBZ PRP JJ MD VB driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle live wherever want and JJ NN VBP CC driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle too so do n't RB RB VBP RB driver driver driver
+Person_or_Vehicle Person_or_Vehicle up companies and see IN NNS CC VB driver driver driver copilot
+Person_or_Vehicle Person_or_Vehicle anyone so have either NN IN VBP DT driver copilot copilot driver
+Person_or_Vehicle Building_or_Public_Space 's that good is on VBZ DT JJ VBZ IN copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space one yeah used to CD NN VBD TO driver copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle in fact this morning IN NN DT NN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle was telling that they VBD VBG IN PRP copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space their gas because it PRP$ NN IN PRP copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle what what happened think WP WP VBD VBP copilot driver driver copilot
+Person_or_Vehicle Person_or_Vehicle no but think they DT CC VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space access to you had NN TO PRP VBD copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space come into ohh at NN IN NN IN copilot copilot driver copilot
+Building_or_Public_Space Person_or_Vehicle air show heard you PRP$ NN RB PRP copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space come to for three NN TO IN CD copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle yeah should pull so NN MD VBP RB copilot driver driver copilot
+Person_or_Vehicle Person_or_Vehicle so into can the IN IN MD DT copilot driver copilot driver
+Person_or_Vehicle Building_or_Public_Space pull into I 'm NN IN PRP VBP copilot copilot driver
+Building_or_Public_Space Person_or_Vehicle gas station going to NN NN VBG TO copilot copilot driver driver
+Person_or_Vehicle Other assume that is on NN IN VBZ IN driver driver driver driver
+Other Person_or_Vehicle is on side which VBZ IN NN WDT driver driver driver driver
+Person_or_Vehicle Other be ohh on my VB VBN IN PRP$ driver driver driver driver
+Other Person_or_Vehicle 's it on side it VBZ PRP IN NN PRP driver driver driver copilot
+Person_or_Vehicle Other my side is on PRP$ NN VBZ IN driver driver copilot copilot
+Other Person_or_Vehicle is on side okay VBZ IN NN NN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle be okay suppose ohh VB VBN VBP JJ copilot copilot copilot driver
+Person_or_Vehicle Person_or_Vehicle now that done with RB DT VBN IN copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space go to yes so IN TO VBZ RB driver driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle so would like directions IN MD VB NNS copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to yes okay NNS TO VBZ NN copilot copilot driver copilot
+Building_or_Public_Space Building_or_Public_Space 's let leave I 'll VBZ VBN JJ PRP MD copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle gas station give you NN NN VB PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle 'll I give directions to JJ PRP VBP NNS TO copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to we still NNS TO PRP RB copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle in drive think we IN JJ VBP PRP driver driver driver driver
+Person_or_Vehicle Road_or_Driveway left at straight straight VBD IN VBD JJ copilot copilot driver copilot
+Road_or_Driveway Traffic_Signal straight after and the RB IN CC DT copilot copilot copilot copilot
+Traffic_Signal Building_or_Public_Space sign and will be NN CC MD VB copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle be on left hand VB IN NN NN copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space side after so you NN IN RB PRP copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle pool so did n't NN IN VBD RB copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle a PHD did think DT NNP VBD VB copilot copilot driver driver
+Person_or_Vehicle Person_or_Vehicle it but missed the PRP VBD VBD DT driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle missed the did n't VBD DT VBD RB driver driver driver
+Person_or_Vehicle Person_or_Vehicle recently and still thinking RB CC RB VBG driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle about it might apply IN PRP MD VB driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle might apply feel like MD RB VBP IN driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle feel like just do n't NN IN RB VBP RB driver driver driver driver
+Person_or_Vehicle Building_or_Public_Space 're we so we JJ PRP RB PRP driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle programming so ohh park NN IN VBP NN driver copilot driver copilot
+Person_or_Vehicle Building_or_Public_Space arrived at alright okay VBD IN NN NN copilot copilot driver copilot
+Building_or_Public_Space Person_or_Vehicle just put in park RB VBD IN NN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle in park think that 's IN NN VBP IN POS copilot copilot copilot copilot
+Person_or_Vehicle Other ohh push and it NN NN CC PRP driver copilot copilot copilot
+Other Person_or_Vehicle now that done with RB DT VBN IN copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space done with now I NN IN RB PRP copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle gym now want to NN RB VBP TO copilot driver driver driver
+Person_or_Vehicle Building_or_Public_Space go to okay so IN TO NN IN driver driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle so let give you IN NN VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle me give directions to PRP VBP NNS TO copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to okay so NNS TO NN IN copilot copilot driver copilot
+Building_or_Public_Space Traffic_Signal up to at which IN TO IN WDT copilot copilot copilot copilot
+Traffic_Signal Person_or_Vehicle a left hope you DT VBN VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle I hope had a PRP VBP VBD DT copilot copilot copilot copilot
+Person_or_Vehicle Traffic_Signal straight after and McDonald 's RB IN CC NNP POS copilot copilot copilot copilot
+Traffic_Signal Building_or_Public_Space sign and is on NN CC VBZ IN copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space close to yes before JJ TO VBZ IN driver driver copilot copilot
+Building_or_Public_Space Building_or_Public_Space after and used to IN CC VBN TO copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space they closed down now PRP VBD IN RB copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space now now just a RB RB RB DT copilot driver driver driver
+Building_or_Public_Space Building_or_Public_Space bay branch that 's NN NN WDT VBZ driver driver copilot
+Building_or_Public_Space Building_or_Public_Space the bank the bank DT NN DT NN driver driver copilot copilot
+Building_or_Public_Space Road_or_Driveway but over ohh we CC IN NN PRP copilot copilot driver copilot
+Road_or_Driveway Road_or_Driveway left right yes ohh VBD VBN VBZ NN copilot driver copilot driver
+Road_or_Driveway Person_or_Vehicle yes ohh see it NNS VBP VBP PRP copilot driver driver driver
+Person_or_Vehicle Building_or_Public_Space I see and then PRP VBP CC RB driver driver copilot copilot
+Building_or_Public_Space Building_or_Public_Space go around to the IN IN TO DT copilot copilot copilot copilot
+Building_or_Public_Space Road_or_Driveway building to window why NN TO NN WRB copilot copilot copilot driver
+Road_or_Driveway Other building to why is NN TO WRB VBZ copilot copilot driver driver
+Other Person_or_Vehicle good question do n't JJ NN VBP RB copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space in fact used to IN NN VBD TO copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle four when started coming PRP$ WRB VBD VBG copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space coming to ohh do VBG TO NN VBP copilot copilot driver driver
+Building_or_Public_Space Road_or_Driveway straight not we oops RB RB PRP VBZ copilot copilot copilot driver
+Road_or_Driveway Other get to ohh here NN TO NN RB copilot copilot driver driver
+Other Person_or_Vehicle go should go around IN MD VB IN driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle go around should I IN IN MD PRP driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle them should stop at PRP MD VB IN driver driver driver driver
+Person_or_Vehicle Other stop at yes you NN IN VBZ PRP driver driver copilot copilot
+Other Person_or_Vehicle window yes do n't NN NNS VBP RB driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle too but think you RB CC VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle I think can just PRP VBP MD RB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle then alright can go RB VBD MD VB copilot driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle can go did n't MD VB VBD RB copilot copilot driver
+Person_or_Vehicle Person_or_Vehicle n't did put in park RB VBD VBN IN NN driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle that okay think it 's DT NN VBP PRP VBZ driver driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle so now okay wan na IN RB VBP JJ NN driver driver copilot driver
+Person_or_Vehicle Building_or_Public_Space back to alright let RB TO NN NN driver driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle alright let give you NN VBD VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle me give directions back PRP VBP NNS VBP copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space back to so we RB TO RB PRP copilot copilot copilot copilot
+Building_or_Public_Space Road_or_Driveway right at yeah a RB IN NN DT copilot copilot copilot copilot
+Road_or_Driveway Traffic_Signal right at yeah I RB IN NN PRP copilot copilot copilot copilot
+Traffic_Signal Person_or_Vehicle sign yeah mean especially NN NN VBP RB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle from Stanford think you IN NNP VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle I think should be PRP VBP MD VB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle should take for grad MD VB IN JJ driver driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle actually n- know another RB JJ VBP DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle I know who used PRP VBP WP VBN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle NASA so went to NNP RB VBD TO copilot copilot copilot copilot
+Person_or_Vehicle Traffic_Signal left at and she VBD IN CC PRP copilot copilot copilot copilot
+Traffic_Signal Person_or_Vehicle sign and did PHD NN CC VBD NNP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle in neuroscience got her IN NN VBD PRP$ copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle she got undergrad from PRP VBD NN IN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle and then went to CC RB VBD TO copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle Johns Hopkins think for NNS VBZ VBP IN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle think for PHD nice NN IN NNP NN copilot copilot copilot driver
+Person_or_Vehicle Person_or_Vehicle nice and ended up NN CC VBD RP driver driver driver driver
+Person_or_Vehicle Building_or_Public_Space up back she was IN RB PRP VBD driver driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle back here was working RB RB VBD VBG driver driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle yeah but not so NN CC RB RB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle sure what doing now RB WP VBG RB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle doing now think now VBG RB VBP RB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle think now has a NN RB VBZ DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle Start-Up or joined a NN CC VBN DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle far as can I RB IN MD PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle I can can tell PRP MD MD VB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle tell from status update NN IN NN NN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle status update not spoken NN VBP RB VBN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle spoken to in a NN TO IN DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle cognitive analysis suppose of JJ NN VBP IN copilot copilot copilot copilot
+Person_or_Vehicle Other right after to get RB IN TO VB copilot copilot copilot copilot
+Other Building_or_Public_Space get into alright a NN IN NN DT copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle right or no follow RB CC RB VB driver driver copilot driver
+Person_or_Vehicle Traffic_Signal follow you f- you NN PRP NN PRP driver copilot copilot copilot
+Traffic_Signal Person_or_Vehicle no follow this f- DT NN DT NN copilot driver driver copilot
+Person_or_Vehicle Road_or_Driveway you follow and then PRP VBP CC RB copilot copilot copilot copilot
+Road_or_Driveway Person_or_Vehicle right yeah reached your RB VBP VBN PRP$ copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle 've you reached hotel alright JJ PRP VBD NN NN copilot copilot copilot driver
+Person_or_Vehicle Building_or_Public_Space 've you reached alright okay JJ PRP VBD NN NN copilot copilot driver copilot
+Building_or_Public_Space Person_or_Vehicle okay put in park NN VBD IN NN copilot driver driver driver
+Person_or_Vehicle Person_or_Vehicle alright so need to NN IN VBP TO driver driver driver driver
+Person_or_Vehicle Building_or_Public_Space go to and the IN TO CC DT driver driver driver driver
+Building_or_Public_Space Building_or_Public_Space barracks and okay so NNS CC VBP RB driver driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle so would like directions IN MD VB NNS copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to yes okay NNS TO VBZ NN copilot copilot driver copilot
+Building_or_Public_Space Building_or_Public_Space 's let leave and I 'll VBZ VBN JJ CC PRP MD copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle lot and give you NN CC VB PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle 'll I give directions so JJ PRP VBP NNS RB copilot copilot copilot copilot
+Person_or_Vehicle Road_or_Driveway left at and now VBD IN CC RB copilot copilot driver driver
+Road_or_Driveway Person_or_Vehicle and now in the CC RB IN DT driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle 's Phil in right sorry VBZ NNP IN RB JJ driver driver driver copilot
+Person_or_Vehicle Person_or_Vehicle sorry now in the NN RB IN DT copilot driver driver driver
+Person_or_Vehicle Person_or_Vehicle 's Phil in ohh Phil 's VBZ NNP IN NN NNP POS driver driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle car ohh in the NN NN IN DT driver copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle 's Phil in yes I VBZ NNP IN VBZ PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle car yes forget the NN NNS VBP DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle sometimes because get confused RB IN VBP VBN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle confused between and Sam VBD IN CC NNP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle Phil and there 's NNP CC RB VBZ copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle 's there Sam who VBZ EX NNP WP copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle another person who will DT NN WP MD copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle person Sam will be NN NNP MD VB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle soon to so my RB TO RB PRP$ copilot copilot copilot driver
+Person_or_Vehicle Person_or_Vehicle you so buddy yes PRP RB NN NNS copilot copilot driver copilot
+Person_or_Vehicle Traffic_Signal way to and make NN TO CC VB copilot copilot copilot copilot
+Traffic_Signal Building_or_Public_Space right is FEMA warehouse RB VBZ NNP NN copilot driver driver driver
+Building_or_Public_Space Building_or_Public_Space is there out here VBZ EX IN RB driver driver driver driver
+Building_or_Public_Space Building_or_Public_Space warehouse out yes nice NN IN VBZ JJ driver driver copilot driver
+Building_or_Public_Space Person_or_Vehicle nice now know where NN RB VBP WRB driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle an emergency believe this DT NN VBP DT driver driver copilot copilot
+Person_or_Vehicle Building_or_Public_Space I believe is the PRP VBP VBZ DT copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle of supplies would expect IN NNS MD VB copilot copilot copilot copilot
+Person_or_Vehicle Traffic_Signal emergency at you 're NN IN PRP VBP copilot copilot copilot
+Traffic_Signal Person_or_Vehicle stop sign going to NN NN VBG TO copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle force or not so NN CC RB RB driver driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle so sure think for IN RB VBP IN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle here but do n't RB CC VBP RB copilot copilot copilot
+Person_or_Vehicle Other right after and the RB IN CC DT copilot copilot copilot copilot
+Other Building_or_Public_Space hydrant and will be NN CC MD VB copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle be on right hand VB IN NN NN copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space park in are we NN IN VBP PRP driver driver driver driver
+Building_or_Public_Space Person_or_Vehicle to drop off we 're TO VB IN PRP VBP driver driver driver copilot
+Person_or_Vehicle Person_or_Vehicle to drop off alright TO VB IN NN copilot copilot copilot driver
+Person_or_Vehicle Person_or_Vehicle alright bye okay so NN NN NN RB driver driver copilot driver
+Person_or_Vehicle Building_or_Public_Space go to Crown Start-Up IN TO NNP NNP driver driver driver driver
+Building_or_Public_Space Building_or_Public_Space Start-Up Funds okay so NN NNS VBP RB driver driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle so let give you IN NN VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle me give directions to PRP VBP NNS TO copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to so we NNS TO RB PRP copilot copilot copilot copilot
+Building_or_Public_Space Traffic_Signal way to at which NN TO IN WDT copilot copilot copilot copilot
+Traffic_Signal Building_or_Public_Space way to is we 're NN TO VBZ PRP VBP copilot copilot copilot copilot
+Building_or_Public_Space Road_or_Driveway 're we taking so we 're JJ PRP VBG RB PRP VBP copilot copilot copilot copilot
+Road_or_Driveway Road_or_Driveway be taking now alright VB VBG RB VBD copilot copilot copilot driver
+Road_or_Driveway Road_or_Driveway straight to and make RB TO CC VB copilot copilot copilot copilot
+Road_or_Driveway Road_or_Driveway end of and make NN IN CC VB copilot copilot copilot copilot
+Road_or_Driveway Traffic_Signal left at the speed VBD IN DT NN copilot copilot copilot copilot
+Traffic_Signal Road_or_Driveway speed limit is still NN NN VBZ RB copilot copilot copilot copilot
+Road_or_Driveway Road_or_Driveway 're we flying no we JJ PRP VBG DT PRP driver driver copilot copilot
+Road_or_Driveway Road_or_Driveway gotten to yet I RB TO RB PRP copilot copilot copilot copilot
+Road_or_Driveway Person_or_Vehicle expressway yet think that NN RB VBP IN copilot copilot copilot copilot
+Person_or_Vehicle Road_or_Driveway section of where the NN IN WRB DT copilot copilot copilot copilot
+Road_or_Driveway Traffic_Signal left at so we VBD IN IN PRP copilot copilot copilot copilot
+Traffic_Signal Road_or_Driveway ahead on okay so RB IN NN RB copilot copilot driver copilot
+Road_or_Driveway Person_or_Vehicle ohh well do n't NN RB VBP RB driver driver driver
+Person_or_Vehicle Road_or_Driveway n't do think was one RB VBP VB VBD CD driver driver driver driver
+Road_or_Driveway Person_or_Vehicle so are from the IN VBP IN DT copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space you from I 'm PRP IN PRP VBP copilot copilot driver
+Building_or_Public_Space Person_or_Vehicle now so see third RB RB VBP JJ driver driver copilot driver
+Person_or_Vehicle Person_or_Vehicle Bay Area from Iowa NNP NNP IN NNP copilot copilot driver driver
+Person_or_Vehicle Building_or_Public_Space 'm I from originally but NN PRP IN RB CC driver driver driver driver
+Building_or_Public_Space Person_or_Vehicle originally but been here RB CC VBN RB driver driver driver driver
+Person_or_Vehicle Building_or_Public_Space 've I been for seven JJ PRP VBN IN CD driver driver driver driver
+Building_or_Public_Space Traffic_Signal right at we go RB IN PRP VBP copilot copilot copilot copilot
+Traffic_Signal Traffic_Signal ohh after we continue NN IN PRP VBP driver copilot copilot copilot
+Traffic_Signal Building_or_Public_Space straight past on the RB JJ IN DT copilot copilot copilot copilot
+Building_or_Public_Space Road_or_Driveway left at we make VBD IN PRP VBP copilot copilot copilot copilot
+Road_or_Driveway Road_or_Driveway a left ohh here DT VBN JJ RB copilot copilot driver driver
+Road_or_Driveway Road_or_Driveway here ohh yeah there RB VBP JJ EX copilot driver copilot driver
+Road_or_Driveway Road_or_Driveway yeah there is the NN EX VBZ DT copilot driver driver driver
+Road_or_Driveway Traffic_Signal it is yeah sorry PRP VBZ NN NN driver driver copilot copilot
+Traffic_Signal Person_or_Vehicle yeah sorry said yeah NN NN VBD JJ copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle yeah no said T NN DT VBD NNP copilot driver driver driver
+Person_or_Vehicle Road_or_Driveway follow okay make a NN NN VBP DT copilot driver copilot copilot
+Road_or_Driveway Person_or_Vehicle bit confusing think most NN VBG VBP JJS copilot copilot copilot copilot
+Person_or_Vehicle Road_or_Driveway to follow past these TO VB NN DT copilot copilot copilot copilot
+Road_or_Driveway Building_or_Public_Space road past on the NN VBD IN DT copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle close to on the JJ TO IN DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle the left yeah yes DT VBN NN NNS copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle yes so have arrived NNS IN VBP VBN copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space arrived at alright excellent VBD IN VBD NN copilot copilot driver copilot
+Building_or_Public_Space Person_or_Vehicle so what need to IN WP VBP TO copilot copilot copilot copilot
+Person_or_Vehicle Other to restart because it TO VB IN PRP copilot copilot copilot copilot
+Other Person_or_Vehicle top of because it JJ IN IN PRP copilot copilot copilot copilot
+Person_or_Vehicle Other car because can only NN IN MD RB copilot copilot copilot copilot
+Other Person_or_Vehicle time so just be NN IN RB VB copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space okay alright alright so NN VBD NN IN copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle alright so need to NN IN VBP TO driver driver driver driver
+Person_or_Vehicle Building_or_Public_Space go to okay and IN TO VBP CC driver driver copilot driver
+Building_or_Public_Space Person_or_Vehicle okay and have thirty NN CC VBP JJ copilot driver driver driver
+Person_or_Vehicle Person_or_Vehicle will minutes need directions MD NNS VBP NNS copilot driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle directions to have thirty NNS TO VB JJ copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle minutes do need directions NNS VBP VBP NNS copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to yes okay NNS TO NNS VBP copilot copilot driver copilot
+Building_or_Public_Space Person_or_Vehicle so let give you IN NN VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle me give directions let 's PRP VBP NNS VBP POS copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space out of you have IN IN PRP VB copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle parking lot have a VBG NN VB DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle message from would you NN IN MD PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle Sam would like me NNP MD VB PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle you like to read PRP VBP TO VB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle it for yeah how PRP IN VBP WRB copilot copilot driver copilot
+Person_or_Vehicle Person_or_Vehicle how did meeting go WRB VBD NN NN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle meeting go be at NN VBP VB IN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle be at house this VB IN NN DT copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space be at this afternoon VB IN DT NN copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle afternoon if want to NN IN VBP TO copilot copilot copilot copilot
+Person_or_Vehicle Road_or_Driveway left at alright tell VBD IN VBD NN copilot copilot driver driver
+Road_or_Driveway Person_or_Vehicle alright tell I 'll NN VBD PRP MD driver driver driver
+Person_or_Vehicle Person_or_Vehicle tell him be there NN PRP VB RB driver driver driver driver
+Person_or_Vehicle Building_or_Public_Space 'll I be and the JJ PRP VB CC DT driver driver driver driver
+Building_or_Public_Space Person_or_Vehicle great and got a JJ CC VBD DT driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle so would like to IN MD VB TO copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle go to house not IN TO NN RB copilot copilot copilot driver
+Person_or_Vehicle Building_or_Public_Space go to not yet IN TO RB RB copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle ohh should have told NN MD VB JJ driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle have told that I 'm VBP VBN IN PRP VBP driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle him that not coming PRP IN RB VBG driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle okay could tell Sam NN MD VB NNP driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle you tell that I 'll PRP VBD IN PRP MD driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle Sam that be there NNP IN VB RB driver driver driver driver
+Person_or_Vehicle Building_or_Public_Space 'll I be after my JJ PRP VB IN PRP$ driver driver driver driver
+Building_or_Public_Space Person_or_Vehicle there after meeting which EX IN NN WDT driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle should be do n't MD VB VBP RB driver driver driver
+Person_or_Vehicle Person_or_Vehicle straight long text him RB RB VB PRP copilot driver driver driver
+Person_or_Vehicle Person_or_Vehicle 'll I text after my JJ PRP VBP IN PRP$ driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle him after meeting okay PRP IN NN NN driver driver driver copilot
+Person_or_Vehicle Person_or_Vehicle meeting okay have a NN NN VB DT driver copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle message from alright it 's NN IN NN PRP VBZ copilot copilot driver copilot
+Person_or_Vehicle Person_or_Vehicle message from he says NN IN PRP VBZ copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle from Phil says the IN NNP VBZ DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle he says just got PRP VBZ RB VBD copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space just got and I RB VBD CC PRP copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle here and left quarterly RB CC VBD RB copilot copilot copilot copilot
+Person_or_Vehicle Other I left in your PRP VBD IN PRP$ copilot copilot copilot copilot
+Other Person_or_Vehicle report in backseat I NN IN NN PRP copilot copilot copilot copilot
+Person_or_Vehicle Other report in I need NN IN PRP VBP copilot copilot copilot copilot
+Other Person_or_Vehicle your backseat need you PRP$ NN VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle I need to drop PRP VBP TO VB copilot copilot copilot copilot
+Person_or_Vehicle Other to drop off as TO VB IN IN copilot copilot copilot copilot
+Other Other okay drop off at NN NN IN IN driver driver driver driver
+Other Building_or_Public_Space off at the army IN IN DT NN driver driver copilot copilot
+Building_or_Public_Space Building_or_Public_Space the barracks yeah is DT NNS VBP VBZ driver driver driver driver
+Building_or_Public_Space Building_or_Public_Space is is where he VBZ VBZ WRB PRP driver driver driver driver
+Building_or_Public_Space Person_or_Vehicle that where is yeah DT WRB VBZ JJ driver driver driver copilot
+Person_or_Vehicle Person_or_Vehicle okay so need to NN IN VBP TO driver driver driver driver
+Person_or_Vehicle Building_or_Public_Space go to and then IN TO CC RB driver driver driver driver
+Building_or_Public_Space Person_or_Vehicle so let give you IN NN VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle me give directions to PRP VBP NNS TO copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to we make NNS TO PRP VBP copilot copilot copilot copilot
+Building_or_Public_Space Road_or_Driveway left at would you VBD IN MD PRP copilot copilot copilot copilot
+Road_or_Driveway Person_or_Vehicle intersection would like me NN MD VB PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle you like to send PRP VBP TO VB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle message to yes could NN TO NNS MD copilot copilot driver driver
+Person_or_Vehicle Person_or_Vehicle yes could tell him NNS MD VB PRP driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle you tell I 'll PRP VBD PRP MD driver driver driver
+Person_or_Vehicle Person_or_Vehicle tell him be there NN PRP VB RB driver driver driver driver
+Person_or_Vehicle Building_or_Public_Space 'll I be as soon JJ PRP VB IN RB driver driver driver driver
+Building_or_Public_Space Person_or_Vehicle soon as can okay RB IN MD VB driver driver driver copilot
+Person_or_Vehicle Traffic_Signal straight after so we RB IN IN PRP copilot copilot copilot copilot
+Traffic_Signal Road_or_Driveway we follow to the PRP VBP TO DT copilot copilot copilot copilot
+Road_or_Driveway Traffic_Signal road to where we NN TO WRB PRP copilot copilot copilot copilot
+Traffic_Signal Road_or_Driveway we follow after the PRP VBP IN DT copilot copilot copilot copilot
+Road_or_Driveway Traffic_Signal road after so you NN IN IN PRP copilot copilot copilot copilot
+Traffic_Signal Person_or_Vehicle sign so were born NN IN VBD VBN copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space raised in where in VBD IN WRB IN copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space where in Waterloo it 's WRB IN NNP PRP VBZ copilot copilot driver driver
+Building_or_Public_Space Building_or_Public_Space in Iowa it 's IN NNP PRP VBZ copilot copilot driver
+Building_or_Public_Space Building_or_Public_Space sign so northern central NN IN JJ JJ copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle northern central see Des NN JJ VBP NNP driver driver copilot copilot
+Person_or_Vehicle Building_or_Public_Space I see is the PRP VBP VBZ DT copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle thing that have it 's NN IN VBP PRP VBZ copilot copilot copilot driver
+Person_or_Vehicle Building_or_Public_Space I have the heard PRP VBP DT NN copilot copilot driver copilot
+Building_or_Public_Space Building_or_Public_Space heard of of it 's NN IN IN PRP VBZ driver driver copilot driver
+Building_or_Public_Space Building_or_Public_Space there of a good EX IN DT JJ driver copilot driver driver
+Building_or_Public_Space Person_or_Vehicle fireflies which love fireflies NNS VBP VBP NNS driver driver driver copilot
+Person_or_Vehicle Other right after for the RB IN IN DT copilot copilot copilot copilot
+Other Building_or_Public_Space hydrant for alright so NN IN VBD RB copilot copilot driver driver
+Building_or_Public_Space Person_or_Vehicle so is out here IN VBZ IN RB driver driver driver driver
+Person_or_Vehicle Building_or_Public_Space Phil out waiting or NNP IN VBG CC driver driver driver driver
+Building_or_Public_Space Person_or_Vehicle text yes Phil is NN NNS NNP VBZ driver copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle yes him is waiting NNS PRP VBZ VBG copilot driver copilot copilot
+Person_or_Vehicle Building_or_Public_Space meeting at at Nanotech NN IN IN NNP driver copilot driver driver
+Building_or_Public_Space Building_or_Public_Space Nanotech at okay so NNP IN NN IN copilot driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle so let give you IN NN VBP PRP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle me give directions to PRP VBP NNS TO copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to you have NNS TO PRP VBP copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle to Nanotech have a TO NNP VBP DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle message from alright he NN IN NN PRP copilot copilot driver copilot
+Person_or_Vehicle Person_or_Vehicle Sam alright wants to NNP VBD VBZ TO copilot driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle know if can meet RB IN MD VB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle can meet for dinner MD VB IN NN copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle out at house we IN IN NN PRP driver driver driver copilot
+Person_or_Vehicle Building_or_Public_Space out at we make IN IN PRP VBP driver driver copilot copilot
+Building_or_Public_Space Road_or_Driveway left at okay tell VBD IN NN NN copilot copilot driver driver
+Road_or_Driveway Person_or_Vehicle okay tell sure where 's NN VBD RB WRB POS driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle eat okay have a NN NN VB DT driver copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle message from okay he NN IN NN PRP copilot copilot driver copilot
+Person_or_Vehicle Person_or_Vehicle Sam okay knows of NNP NN VBZ IN copilot driver copilot copilot
+Person_or_Vehicle Building_or_Public_Space knows of would you NNS IN MD PRP copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space close to would you JJ TO MD PRP copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle hotel would like to NN MD VB TO copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle to meet at the TO VB IN DT copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space him at at seven PRP IN IN CD copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle sure should sent him RB MD VB PRP driver copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle I sent a text PRP VBD DT NN copilot copilot copilot copilot
+Person_or_Vehicle Traffic_Signal straight after you have RB IN PRP VB copilot copilot copilot copilot
+Traffic_Signal Person_or_Vehicle stop sign have a NN NN VB DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle message from alright he NN IN NN PRP copilot copilot driver copilot
+Person_or_Vehicle Person_or_Vehicle Phil alright he thanks NNP VBD PRP VBZ copilot driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle alright he thanks you NN PRP VBZ PRP driver copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle he thanks for having PRP VBZ IN VBG copilot copilot copilot copilot
+Person_or_Vehicle Other dropped off and wants VBD IN CC VBZ copilot copilot copilot copilot
+Other Person_or_Vehicle know if can buy RB IN MD VB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle can buy dinner ask MD VB JJR NN copilot copilot copilot driver
+Person_or_Vehicle Person_or_Vehicle dinner ask if I NN NN IN PRP copilot driver driver driver
+Person_or_Vehicle Person_or_Vehicle him if can take PRP IN MD VB driver driver driver driver
+Person_or_Vehicle Traffic_Signal straight after and we RB IN CC PRP copilot copilot copilot copilot
+Traffic_Signal Building_or_Public_Space left into and Nanotech VBD IN CC NNP copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space lot and is the NN CC VBZ DT copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space Nanotech is alright here NNP VBZ NN RB copilot copilot driver copilot
+Building_or_Public_Space Road_or_Driveway side alright we make NN VBD PRP VBP copilot driver copilot copilot
+Road_or_Driveway Road_or_Driveway left ohh I think VBD NN PRP VBP copilot driver driver driver
+Road_or_Driveway Person_or_Vehicle ohh here think that 's NN RB VBP IN POS driver copilot driver driver
+Person_or_Vehicle Person_or_Vehicle second time done that JJ NN VBN IN driver driver driver driver
+Person_or_Vehicle Building_or_Public_Space and then is the CC RB VBZ DT copilot copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space Nanotech is okay alright NNP VBZ NN NN copilot copilot copilot driver
+Building_or_Public_Space Person_or_Vehicle okay alright park alright NN VBD VB NN copilot driver driver driver
+Person_or_Vehicle Person_or_Vehicle so now need to IN RB VBP TO driver driver driver driver
+Person_or_Vehicle Building_or_Public_Space back to okay so RB TO NN RB driver driver copilot copilot
+Building_or_Public_Space Person_or_Vehicle so do need directions IN VBP VBP NNS copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space directions to let 's NNS TO VBD POS copilot copilot copilot
+Building_or_Public_Space Building_or_Public_Space out of then we IN IN RB PRP copilot copilot copilot copilot
+Building_or_Public_Space Person_or_Vehicle go straight have a IN RB VB DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle message from okay he NN IN NN PRP copilot copilot driver copilot
+Person_or_Vehicle Person_or_Vehicle Phil okay says it 's NNP NN VBZ PRP VBZ copilot driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle urgent that meet up NN IN VBP RP copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle evening because has an NN IN VBZ DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle venture that wants to NN IN VBZ TO copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle talk to about after NN TO IN IN copilot copilot copilot driver
+Person_or_Vehicle Person_or_Vehicle dinner can meet after NN MD VB IN copilot driver driver driver
+Person_or_Vehicle Road_or_Driveway left at so you VBD IN IN PRP copilot copilot copilot copilot
+Road_or_Driveway Person_or_Vehicle junction so have a NN IN VBP DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle message from he wants NN IN PRP VBZ copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle from Phil wants to IN NNP VBZ TO copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle works for hotel lobby NNS IN VBP JJ copilot copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space for you lobby sure IN PRP JJ NN copilot copilot copilot driver
+Building_or_Public_Space Building_or_Public_Space for you sure should IN PRP NN MD copilot copilot driver copilot
+Building_or_Public_Space Person_or_Vehicle sure should send him RB MD VBP PRP driver copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle I send a text PRP VBP DT NN copilot copilot copilot copilot
+Person_or_Vehicle Traffic_Signal straight after you have RB IN PRP VB copilot copilot copilot copilot
+Traffic_Signal Person_or_Vehicle stop sign have a NN NN VB DT copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle message from alright he NN IN NN PRP copilot copilot driver copilot
+Person_or_Vehicle Person_or_Vehicle Sam alright wants to NNP VBD VBZ TO copilot driver copilot copilot
+Person_or_Vehicle Person_or_Vehicle know if can meet RB IN MD VB copilot copilot copilot copilot
+Person_or_Vehicle Person_or_Vehicle eight tell I ca n't NN VBD PRP MD RB copilot driver driver driver
+Person_or_Vehicle Person_or_Vehicle tell him ca n't NN PRP MD RB driver driver driver
+Person_or_Vehicle Person_or_Vehicle n't ca could s- is RB MD VB -NONE- VBZ driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle s- is still able NN VBZ RB JJ driver driver driver driver
+Person_or_Vehicle Person_or_Vehicle earlier should send him JJR MD VBP PRP driver copilot copilot copilot
+Person_or_Vehicle Building_or_Public_Space left into make a VBD IN VB DT copilot copilot copilot copilot
+Building_or_Public_Space Road_or_Driveway can park where it 's MD VB WRB PRP VBZ copilot copilot copilot copilot
+Road_or_Driveway Other three Orion ohh nice CD NNP NN NN copilot copilot driver driver
+Other Other there is that is EX VBZ WDT VBZ copilot copilot copilot copilot
